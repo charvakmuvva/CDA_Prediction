@@ -60,7 +60,7 @@ outputs/predictions.csv
 Format:
 
 ```
-Drugbank_id | DiseaseId | Disease Name | Probability
+Chemical ID | Disease ID | Disease Name | Probability
 ```
 
 ---
@@ -86,3 +86,22 @@ Drugbank_id | DiseaseId | Disease Name | Probability
 * Pandas
 * NumPy
 * PyArrow
+
+---
+
+## 📚 Citation
+
+If you use this work, please cite:
+
+```bibtex
+@misc{chem_disease_link_prediction_2026,
+  author = {Charuvaka Muvva1, Dohyeon Kim1,2 and Keunwan Park1,*},
+  title = {Systematic Prediction of Direct Chemical-Disease Association via Multi-Target Network based Disease Embeddings},
+  year = {2026},
+  1.Department Center for Natural Products Systems Biology, Korea Institute of Science and Technology,
+  Gangneung, 25451, Republic of Korea.,
+  2.Department of Bioinformatics and Life Science, Soongsil Uni-
+  versity, Seoul, 06978, Republic of Korea.
+}
+```
+
