@@ -1,11 +1,35 @@
 # CDA_Prediction
-This repository contains the data and source code for the manuscript Systematic Prediction of Direct Chemical-Disease Association via Multi-Target Network based Disease Embeddings
+
+This repository contains the data and source code for the manuscript
+**Systematic Prediction of Direct Chemical-Disease Association via Multi-Target Network based Disease Embeddings**
+
 ![Alt text](CDA_Prediction_WorkFlow.png)
+
+---
+
 ## ⚙️ Installation
 
 ```bash
 pip install -r requirements.txt
 ```
+
+---
+
+## 🧪 Example Input File
+
+Your input CSV should look like this:
+
+```csv
+ID,smiles
+Chemical_1,CCO
+Chemical_2,CC(=O)O
+Chemical_3,C1=CC=CC=C1
+```
+
+### 🔹 Column Description
+
+* **ID** → Unique identifier for each chemical
+* **smiles** → SMILES representation of the molecule
 
 ---
 
@@ -71,10 +95,19 @@ The prediction file will be saved as:
 outputs/predictions.csv
 ```
 
-Format:
+### Format
 
 ```
 Chemical ID | Disease ID | Disease Name | Probability
+```
+
+### Example
+
+```csv
+Chemical ID,Disease ID,Disease Name,Probability
+Chemical_1,D001,Diabetes,0.87
+Chemical_1,D002,Cancer,0.12
+Chemical_2,D001,Diabetes,0.45
 ```
 
 ---
@@ -83,11 +116,13 @@ Chemical ID | Disease ID | Disease Name | Probability
 
 * Ensure model file is placed in:
 
-  ```
-  models/best_model.pth
-  ```
+```
+models/best_model.pth
+```
+
 * If using GPU, PyTorch will automatically detect CUDA.
 * Always run commands from the project root directory.
+* Use `--compile` if your model was saved with `torch.compile`.
 
 ---
 
@@ -109,13 +144,9 @@ If you use this work, please cite:
 
 ```bibtex
 @misc{chem_disease_link_prediction_2026,
-  author = {Charuvaka Muvva1, Dohyeon Kim1,2 and Keunwan Park1,*},
+  author = {Charvak Muvva and Dohyeon Kim and Keunwan Park},
   title = {Systematic Prediction of Direct Chemical-Disease Association via Multi-Target Network based Disease Embeddings},
   year = {2026},
-  1.Department Center for Natural Products Systems Biology, Korea Institute of Science and Technology,
-  Gangneung, 25451, Republic of Korea.,
-  2.Department of Bioinformatics and Life Science, Soongsil Uni-
-  versity, Seoul, 06978, Republic of Korea.
+  note = {Korea Institute of Science and Technology (KIST) and Soongsil University}
 }
 ```
-
