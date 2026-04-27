@@ -14,7 +14,12 @@ pip install -r requirements.txt
 ### 1️⃣ Generate Chemical Embeddings
 
 ```bash
-python src/embed_smiles.py
+python src/embed_smiles.py \
+  --input data/input_smiles.csv \
+  --output outputs/chemberta3_embeddings.tsv \
+  --id_col ID \
+  --smiles_col smiles \
+  --batch_size 32
 ```
 
 ---
@@ -22,7 +27,16 @@ python src/embed_smiles.py
 ### 2️⃣ Run Prediction
 
 ```bash
-python src/predict.py
+python src/predict.py \
+  --chem_emb outputs/chemberta3_embeddings.tsv \
+  --disease_emb Disease_embeddings/SVD_Disease_embeddings.parquet \
+  --model_path models/best_model.pth \
+  --output outputs/predictions.csv \
+  --chem_id_col ID \
+  --disease_id_col diseaseId \
+  --chemical_batch_size 256 \
+  --disease_batch_size 512 \
+  --compile
 ```
 
 ---
