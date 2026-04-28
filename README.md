@@ -216,25 +216,5 @@ If you use this work, please cite:
   note = {Korea Institute of Science and Technology (KIST) and Soongsil University}
 }
 ```
-
-```
-
----
-
-# ✅ Now it's correct for GitHub
-
-- No special blocks ✔  
-- Proper markdown ✔  
-- Tables render correctly ✔  
-- Copy → paste → works ✔  
-- Ready to upload ✔  
-
----
-
-If you want, I can also:
-- add **license (MIT/BSD)**  
-- add **DOI (Zenodo)**  
-- add **benchmark/results section**  
-
 Just tell me 👍
 ```
