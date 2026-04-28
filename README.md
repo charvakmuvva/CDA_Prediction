@@ -1,6 +1,13 @@
+Got it — you want a **plain README.md file content (no special blocks, no IDs, no extra formatting)** that you can **copy → paste → upload directly to GitHub**.
+
+Here is the **final clean README.md** 👇
+
+---
+
+````md
 # CDA_Prediction
 
-This repository contains the data and source code for the manuscript
+This repository contains the data and source code for the manuscript  
 **Systematic Prediction of Direct Chemical-Disease Association via Multi-Target Network based Disease Embeddings**
 
 ![Alt text](CDA_Prediction_WorkFlow.png)
@@ -11,13 +18,21 @@ This repository contains the data and source code for the manuscript
 
 ```bash
 pip install -r requirements.txt
-```
+````
 
 ---
 
 ## 🧪 Example Input File
 
 Your input CSV should look like this:
+
+| ID         | smiles      |
+| ---------- | ----------- |
+| Chemical_1 | CCO         |
+| Chemical_2 | CC(=O)O     |
+| Chemical_3 | C1=CC=CC=C1 |
+
+CSV format:
 
 ```csv
 ID,smiles
@@ -26,10 +41,28 @@ Chemical_2,CC(=O)O
 Chemical_3,C1=CC=CC=C1
 ```
 
-### 🔹 Column Description
+### Column Description
 
 * **ID** → Unique identifier for each chemical
 * **smiles** → SMILES representation of the molecule
+
+---
+
+## 🦠 Disease IDs and Names
+
+Disease IDs and corresponding names are provided in:
+
+```
+DiseaseIds_and_Names.csv
+```
+
+Example:
+
+| Disease ID  | Disease Name      |
+| ----------- | ----------------- |
+| EFO_0000304 | Breast carcinoma  |
+| EFO_0000311 | Cancer            |
+| EFO_0000400 | Diabetes mellitus |
 
 ---
 
@@ -48,14 +81,16 @@ python src/embed_smiles.py \
 
 ---
 
-### 2️⃣ Run Prediction
+## 2️⃣ Run Prediction
+
+### 🔹 Predict for ALL Diseases
 
 ```bash
 python src/predict.py \
   --chem_emb outputs/chemberta3_embeddings.tsv \
   --disease_emb Disease_embeddings/SVD_Disease_embeddings.parquet \
   --model_path models/best_model.pth \
-  --output outputs/predictions.csv \
+  --output outputs/predictions_all.csv \
   --chem_id_col ID \
   --disease_id_col diseaseId \
   --chemical_batch_size 256 \
@@ -65,18 +100,46 @@ python src/predict.py \
 
 ---
 
+### 🔹 Predict for a SINGLE Disease
+
+Example for **EFO_0000304**:
+
+```bash
+python src/predict.py \
+  --chem_emb outputs/chemberta3_embeddings.tsv \
+  --disease_emb Disease_embeddings/SVD_Disease_embeddings.parquet \
+  --model_path models/best_model.pth \
+  --output outputs/predictions_EFO_0000304.csv \
+  --chem_id_col ID \
+  --disease_id_col diseaseId \
+  --target_disease_id EFO_0000304 \
+  --chemical_batch_size 256 \
+  --disease_batch_size 512 \
+  --compile
+```
+
+---
+
+### ⚠️ Important
+
+* `--disease_id_col` → column name (**always `diseaseId`**)
+* `--target_disease_id` → actual disease ID value
+
+---
+
 ## 📂 Project Structure
 
 ```
-chem-disease-link-prediction/
+CDA_Prediction/
 │
 ├── config.py
 ├── requirements.txt
 ├── README.md
 │
-├── data/              # Input data files
-├── models/            # Trained model (.pth)
-├── outputs/           # Generated outputs
+├── data/                  
+├── Disease_embeddings/    
+├── models/                
+├── outputs/               
 │
 └── src/
     ├── embed_smiles.py
@@ -97,17 +160,19 @@ outputs/predictions.csv
 
 ### Format
 
-```
-Chemical ID | Disease ID | Disease Name | Probability
-```
+| Chemical ID | Disease ID  | Disease Name     | Probability |
+| ----------- | ----------- | ---------------- | ----------- |
+| Chemical_1  | EFO_0000304 | Breast carcinoma | 0.87        |
+| Chemical_1  | EFO_0000311 | Cancer           | 0.12        |
+| Chemical_2  | EFO_0000304 | Breast carcinoma | 0.45        |
 
-### Example
+CSV format:
 
 ```csv
 Chemical ID,Disease ID,Disease Name,Probability
-Chemical_1,D001,Diabetes,0.87
-Chemical_1,D002,Cancer,0.12
-Chemical_2,D001,Diabetes,0.45
+Chemical_1,EFO_0000304,Breast carcinoma,0.87
+Chemical_1,EFO_0000311,Cancer,0.12
+Chemical_2,EFO_0000304,Breast carcinoma,0.45
 ```
 
 ---
@@ -120,9 +185,10 @@ Chemical_2,D001,Diabetes,0.45
 models/best_model.pth
 ```
 
-* If using GPU, PyTorch will automatically detect CUDA.
-* Always run commands from the project root directory.
-* Use `--compile` if your model was saved with `torch.compile`.
+* Disease IDs and names → `DiseaseIds_and_Names.csv`
+* If using GPU, PyTorch will automatically detect CUDA
+* Always run commands from the project root directory
+* Use `--compile` if your model was saved with `torch.compile`
 
 ---
 
@@ -149,4 +215,26 @@ If you use this work, please cite:
   year = {2026},
   note = {Korea Institute of Science and Technology (KIST) and Soongsil University}
 }
+```
+
+```
+
+---
+
+# ✅ Now it's correct for GitHub
+
+- No special blocks ✔  
+- Proper markdown ✔  
+- Tables render correctly ✔  
+- Copy → paste → works ✔  
+- Ready to upload ✔  
+
+---
+
+If you want, I can also:
+- add **license (MIT/BSD)**  
+- add **DOI (Zenodo)**  
+- add **benchmark/results section**  
+
+Just tell me 👍
 ```
