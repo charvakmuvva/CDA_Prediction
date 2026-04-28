@@ -1,10 +1,3 @@
-Got it — you want a **plain README.md file content (no special blocks, no IDs, no extra formatting)** that you can **copy → paste → upload directly to GitHub**.
-
-Here is the **final clean README.md** 👇
-
----
-
-````md
 # CDA_Prediction
 
 This repository contains the data and source code for the manuscript  
