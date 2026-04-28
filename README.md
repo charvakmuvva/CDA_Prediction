@@ -128,6 +128,7 @@ CDA_Prediction/
 ├── config.py
 ├── requirements.txt
 ├── README.md
+├── DiseaseIds_and_Names.csv
 │
 ├── data/                  
 ├── Disease_embeddings/    
@@ -208,6 +209,3 @@ If you use this work, please cite:
   year = {2026},
   note = {Korea Institute of Science and Technology (KIST) and Soongsil University}
 }
-```
-Just tell me 👍
-```
