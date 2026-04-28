@@ -1,0 +1,1837 @@
+DiseaseId,Disease_name
+EFO_0000304,Breast Adenocarcinoma
+EFO_0005772,Neurodegenerative Disease
+EFO_0000519,Glioblastoma Multiforme
+EFO_0000181,Head And Neck Squamous Cell Carcinoma
+MONDO_0011962,Endometrial Cancer
+MONDO_0008170,Ovarian Cancer
+EFO_0000571,Lung Adenocarcinoma
+EFO_0000389,Cutaneous Melanoma
+MONDO_0004992,Cancer
+EFO_0000616,Neoplasm
+EFO_0000503,Gastric Adenocarcinoma
+MONDO_0100096,Covid-19
+MONDO_0004975,Alzheimer Disease
+EFO_0000222,Acute Myeloid Leukemia
+MONDO_0007254,Breast Cancer
+EFO_0003060,Non-Small Cell Lung Carcinoma
+MONDO_0008315,Prostate Cancer
+EFO_0000708,Squamous Cell Lung Carcinoma
+EFO_0001421,Liver Disease
+EFO_0000673,Prostate Adenocarcinoma
+MONDO_0007576,Esophageal Cancer
+EFO_0001378,Multiple Myeloma
+MONDO_0005301,Multiple Sclerosis
+EFO_0003086,Kidney Disease
+EFO_0000095,Chronic Lymphocytic Leukemia
+MONDO_0005180,Parkinson Disease
+EFO_1001951,Colorectal Carcinoma
+EFO_0002618,Pancreatic Carcinoma
+EFO_0000574,Lymphoma
+MONDO_0001187,Urinary Bladder Cancer
+EFO_0000198,Myelodysplastic Syndrome
+MONDO_0008903,Lung Cancer
+EFO_0000182,Hepatocellular Carcinoma
+EFO_1000044,Pancreatic Adenocarcinoma
+MONDO_0021637,Low Grade Glioma
+EFO_0000756,Melanoma
+EFO_0020092,Neuroinflammatory Disorder
+MONDO_0024880,Metastatic Malignant Neoplasm
+EFO_0000565,Leukemia
+EFO_0000764,Hiv Infection
+EFO_0000220,Acute Lymphoblastic Leukemia
+EFO_0000702,Small Cell Lung Carcinoma
+EFO_0000349,Clear Cell Renal Carcinoma
+GO_0007568,Aging
+EFO_0001073,Obesity
+MONDO_0024622,Thyroid Gland Adenocarcinoma
+EFO_0003884,Chronic Kidney Disease
+EFO_0000621,Neuroblastoma
+EFO_0003869,Breast Neoplasm
+EFO_0000685,Rheumatoid Arthritis
+EFO_0000403,Diffuse Large B-Cell Lymphoma
+EFO_0003843,Pain
+MONDO_0005090,Schizophrenia
+MONDO_0005148,Type 2 Diabetes Mellitus
+EFO_0005952,Non-Hodgkins Lymphoma
+EFO_0001645,Coronary Artery Disease
+MONDO_0001056,Gastric Cancer
+MONDO_0002561,Lysosomal Storage Disease
+EFO_0000305,Breast Carcinoma
+EFO_1001480,Metastatic Colorectal Cancer
+EFO_0000676,Psoriasis
+EFO_0000365,Colorectal Adenocarcinoma
+EFO_0000712,Stroke
+EFO_0000681,Renal Cell Carcinoma
+MONDO_0002009,Major Depressive Disorder
+MONDO_0002158,Fallopian Tube Cancer
+EFO_1000158,Central Nervous System Neoplasm
+EFO_0006859,Head And Neck Malignant Neoplasia
+MONDO_0002367,Kidney Cancer
+MONDO_0002050,Depressive Disorder
+EFO_1000657,Rectum Cancer
+EFO_0000384,Crohn'S Disease
+EFO_0000400,Diabetes Mellitus
+EFO_1001469,Mantle Cell Lymphoma
+MONDO_0007079,Alcohol Dependence
+EFO_0009708,Metastasis
+MONDO_0004979,Asthma
+EFO_0000339,Chronic Myelogenous Leukemia
+EFO_0001642,Lymphoid Neoplasm
+EFO_0000546,Injury
+EFO_0001075,Ovarian Carcinoma
+EFO_0002517,Pancreatic Ductal Adenocarcinoma
+EFO_0000691,Sarcoma
+EFO_0005537,Triple-Negative Breast Cancer
+EFO_0001361,Pulmonary Arterial Hypertension
+MONDO_0004976,Amyotrophic Lateral Sclerosis
+EFO_0002617,Metastatic Melanoma
+EFO_0000537,Hypertension
+EFO_0000341,Chronic Obstructive Pulmonary Disease
+MONDO_0004985,Bipolar Disorder
+EFO_0000612,Myocardial Infarction
+MONDO_0021063,Malignant Colon Neoplasm
+MONDO_0005147,Type 1 Diabetes Mellitus
+EFO_0000183,Hodgkins Lymphoma
+EFO_0002939,Medulloblastoma
+EFO_0000313,Carcinoma
+MONDO_0005277,Migraine Disorder
+MONDO_0011382,Sickle Cell Anemia
+MONDO_0002087,Peritoneum Cancer
+MONDO_0018906,Follicular Lymphoma
+EFO_1001465,Gliosarcoma
+HP_0100543,Cognitive Impairment
+EFO_0003833,Brain Neoplasm
+EFO_0000707,Squamous Cell Carcinoma
+EFO_0000729,Ulcerative Colitis
+MONDO_0002974,Cervical Cancer
+EFO_0000555,Irritable Bowel Syndrome
+MONDO_0015686,Primary Peritoneal Carcinoma
+HP_0000083,Renal Insufficiency
+EFO_0001422,Cirrhosis Of Liver
+HP_0000726,Dementia
+EFO_0001663,Prostate Carcinoma
+MONDO_0011719,Gastrointestinal Stromal Tumor
+EFO_0005543,Glioma
+EFO_0000588,Mesothelioma
+EFO_0004142,Colorectal Neoplasm
+MONDO_0005178,Osteoarthritis
+EFO_0003929,Relapsing-Remitting Multiple Sclerosis
+MONDO_0044903,Myelofibrosis
+EFO_0005230,Anxiety
+EFO_0000637,Osteosarcoma
+EFO_1001968,Soft Tissue Sarcoma
+EFO_0000196,Metastatic Prostate Cancer
+EFO_0006861,Male Breast Carcinoma
+EFO_0002610,Cocaine Dependence
+EFO_1000616,Uveal Melanoma
+EFO_0000274,Atopic Eczema
+EFO_1001901,Neuroendocrine Neoplasm
+EFO_0005762,Neuropathic Pain
+EFO_0003767,Inflammatory Bowel Disease
+MONDO_0002691,Liver Cancer
+MONDO_0044881,Hematopoietic And Lymphoid Cell Neoplasm
+EFO_0003144,Heart Failure
+MONDO_0002108,Thyroid Cancer
+EFO_0003768,Nicotine Dependence
+HP_0002140,Ischemic Stroke
+EFO_0000694,Severe Acute Respiratory Syndrome
+EFO_0000326,Central Nervous System Cancer
+MONDO_0019457,Therapy Related Acute Myeloid Leukemia And Myelodysplastic Syndrome
+EFO_0004616,"Osteoarthritis, Knee"
+EFO_1000783,Diabetic Neuropathy
+EFO_0005672,Acute Coronary Syndrome
+HP_0002315,Headache
+EFO_0000640,Papillary Renal Cell Carcinoma
+EFO_1001512,Endometrial Carcinoma
+EFO_1001051,Mycosis Fungoides
+EFO_0001065,Endometriosis
+EFO_0005221,Cholangiocarcinoma
+EFO_0001358,Post-Traumatic Stress Disorder
+EFO_0000474,Epilepsy
+EFO_0002429,Polycythemia Vera
+EFO_0000768,Idiopathic Pulmonary Fibrosis
+EFO_0000335,Chromophobe Renal Cell Carcinoma
+EFO_0000096,Neoplasm Of Mature B-Cells
+EFO_0003918,Obstructive Sleep Apnea
+EFO_1000251,Fallopian Tube Carcinoma
+EFO_0000401,Diabetic Nephropathy
+HP_0012532,Chronic Pain
+EFO_0003893,Ovarian Neoplasm
+MP_0001914,Hemorrhage
+HP_0003419,Low Back Pain
+EFO_1001249,Non-Alcoholic Steatohepatitis
+EFO_0005611,Opioid Dependence
+EFO_1001919,Spinal Cord Injury
+MONDO_0043510,Brain Injury
+EFO_0000544,Infection
+EFO_0004701,Methamphetamine Dependence
+EFO_0004284,Upper Aerodigestive Tract Neoplasm
+EFO_0000228,Adenocarcinoma
+MONDO_0013730,Graft Versus Host Disease
+EFO_0003968,Angiosarcoma
+EFO_0004252,Nasopharyngeal Neoplasm
+EFO_0008528,Urothelial Carcinoma
+EFO_0009441,Waldenstrom Macroglobulinemia
+EFO_0000180,Hiv-1 Infection
+MONDO_0004986,Urinary Bladder Carcinoma
+MP_0001845,Inflammation
+EFO_0002950,Pregnancy
+EFO_1000785,Sezary'S Disease
+EFO_0002892,Thyroid Carcinoma
+EFO_0003890,Drug Dependence
+EFO_1000906,Dry Eye Syndrome
+EFO_0003860,Pancreatic Neoplasm
+EFO_0004220,Chronic Hepatitis C Virus Infection
+EFO_0006544,Bladder Transitional Cell Carcinoma
+EFO_0003761,Unipolar Depression
+EFO_0000478,Esophageal Adenocarcinoma
+EFO_0004888,Post Operative Nausea And Vomiting
+EFO_0000195,Metabolic Syndrome
+MONDO_0015277,Medullary Thyroid Gland Carcinoma
+EFO_0004242,Obsessive-Compulsive Disorder
+EFO_0004272,Anemia (Phenotype)
+MONDO_0020547,Chronic Graft Versus Host Disease
+EFO_0001074,Morbid Obesity
+MONDO_0007915,Systemic Lupus Erythematosus
+EFO_0003032,Anaplastic Large Cell Lymphoma
+MONDO_0021117,Lung Neoplasm
+EFO_0003888,Attention Deficit Hyperactivity Disorder
+EFO_0005411,Schizoaffective Disorder
+EFO_0000373,Congestive Heart Failure
+MONDO_0007739,Huntington Disease
+EFO_0002430,Primary Myelofibrosis
+EFO_0000545,Infertility
+EFO_0007191,Cannabis Dependence
+EFO_1000026,Diffuse Intrinsic Pontine Glioma
+EFO_1001375,Myocardial Ischemia
+EFO_0003777,Heart Disease
+EFO_0002499,Anaplastic Astrocytoma
+EFO_0000275,Atrial Fibrillation
+EFO_0008583,Acute Myocardial Infarction
+MONDO_0005041,Glaucoma
+EFO_0005687,Fibromyalgia
+EFO_1000984,Inflammatory Breast Carcinoma
+EFO_0003913,Angina Pectoris
+MONDO_0020654,Renal Pelvis/Ureter Urothelial Carcinoma
+EFO_0000569,Liposarcoma
+EFO_1002048,Kidney Failure
+EFO_0000178,Gastric Carcinoma
+EFO_0002501,Anaplastic Oligodendroglioma
+EFO_0009267,Delirium
+EFO_1000652,Acute Pancreatitis
+HP_0002013,Vomiting
+EFO_0002938,Hypopharyngeal Carcinoma
+EFO_0003898,Ankylosing Spondylitis
+MONDO_0019037,Progressive Supranuclear Palsy
+EFO_0000211,Unspecified Peripheral T-Cell Lymphoma
+EFO_0004329,Alcohol Drinking
+EFO_0003756,Autism Spectrum Disorder
+EFO_1000218,Digestive System Carcinoma
+EFO_0003758,Autism
+MONDO_0004192,Urethra Cancer
+EFO_0004698,Insomnia
+MONDO_0003060,Biliary Tract Cancer
+EFO_0005922,Esophageal Squamous Cell Carcinoma
+EFO_0005774,Brain Disease
+EFO_0002918,Rhabdomyosarcoma
+HP_0000989,Pruritus
+EFO_0000717,Systemic Scleroderma
+EFO_0002687,Ischemia Reperfusion Injury
+EFO_0003914,Atherosclerosis
+EFO_0009878,Drug Interaction
+EFO_0005252,Orthostatic Hypotension
+EFO_0004319,Smoking Cessation
+EFO_0005761,Lupus Nephritis
+EFO_0000699,Sjogren Syndrome
+EFO_0003047,Hepatitis C Virus Infection
+MONDO_0003541,Adult Acute Lymphoblastic Leukemia
+EFO_0001061,Cervical Carcinoma
+EFO_0003917,Premature Birth
+HP_0012076,Borderline Personality Disorder
+EFO_0002916,Esophageal Carcinoma
+HP_0003418,Back Pain
+EFO_0003106,Pneumonia
+EFO_0004270,Restless Legs Syndrome
+MONDO_0018364,Malignant Epithelial Tumor Of Ovary
+EFO_0003891,Biliary Tract Neoplasm
+EFO_0001072,Memory Impairment
+EFO_0004895,Tourette Syndrome
+EFO_0009492,Cardiac Arrest
+EFO_0004289,Lymphoid Leukemia
+EFO_0000224,Acute Promyelocytic Leukemia
+MONDO_0003219,Gastroesophageal Junction Adenocarcinoma
+EFO_0005203,Eating Disorder
+EFO_0001068,Malaria
+EFO_0003897,Stomach Neoplasm
+HP_0012735,Cough
+MONDO_0010383,Fragile X Syndrome
+MONDO_0000870,Childhood Acute Lymphoblastic Leukemia
+MONDO_0009061,Cystic Fibrosis
+EFO_1001917,Social Anxiety Disorder
+EFO_0006911,Chemotherapy-Induced Nausea And Vomiting
+EFO_0000174,Ewing Sarcoma
+EFO_0004251,Myeloproliferative Disorder
+EFO_0007160,Autoimmune Thrombocytopenic Purpura
+MONDO_0000831,Thrombotic Disease
+EFO_0003931,Bone Fracture
+MONDO_0002491,Substance Abuse
+EFO_0000677,Mental Or Behavioural Disorder
+MONDO_0002046,Alcohol Abuse
+EFO_1000576,Thymic Carcinoma
+EFO_0004269,Cardiac Arrhythmia
+EFO_0000294,Bladder Tumor
+HP_0001919,Acute Kidney Injury
+MONDO_0005351,Anorexia Nervosa
+EFO_1001486,Primary Biliary Cirrhosis
+EFO_0000668,Preeclampsia
+EFO_0000479,Essential Thrombocythemia
+EFO_0007328,Influenza
+EFO_0003863,Urogenital Neoplasm
+EFO_0002913,Cutaneous T-Cell Lymphoma
+EFO_0000514,Germ Cell Tumor
+EFO_0008585,St Elevation Myocardial Infarction
+EFO_0001071,Lung Carcinoma
+EFO_0003108,Essential Tremor
+EFO_0004198,Skin Neoplasm
+EFO_0003840,Chronic Progressive Multiple Sclerosis
+MONDO_0100431,Migraine Without Aura
+EFO_0000770,Malignant Pleural Mesothelioma
+EFO_0004714,Sexual Dysfunction
+EFO_1000632,Cerebral Palsy
+EFO_0011061,Toxicity
+HP_0100806,Sepsis
+EFO_0000309,Burkitts Lymphoma
+EFO_1000359,Malignant Pancreatic Neoplasm
+EFO_1001949,Colon Adenocarcinoma
+HP_0002018,Nausea
+EFO_0008507,Interstitial Cystitis
+HP_0100607,Dysmenorrhea
+MONDO_0001657,Brain Cancer
+HP_0000713,Agitation
+EFO_1000637,Acute Respiratory Distress Syndrome
+EFO_0000209,T-Cell Acute Lymphoblastic Leukemia
+HP_0011868,Sciatica
+EFO_0005306,Ventricular Tachycardia
+MONDO_0004567,Ileus
+EFO_0009606,Macular Degeneration
+EFO_1000710,Hidradenitis Suppurativa
+EFO_0004253,Nephrolithiasis
+EFO_1000948,Gastroparesis
+EFO_0009321,Diabetic Macular Edema
+EFO_0007486,Sinusitis
+MONDO_0005575,Colorectal Cancer
+EFO_0007532,Uterine Corpus Cancer
+EFO_0005323,Post-Operative Sign Or Symptom
+EFO_0007444,Plasmodium Falciparum Malaria
+EFO_0009516,Burn
+EFO_0008568,Sleep Disorder
+EFO_0004243,Carcinoid Tumor
+EFO_0000221,Acute Monocytic Leukemia
+EFO_0005407,Psychosis
+EFO_0004599,Acute Graft Vs. Host Disease
+EFO_0005207,Congenital Heart Disease
+HP_0030833,Neck Pain
+EFO_0005854,Allergic Rhinitis
+EFO_1001961,Intrahepatic Cholangiocarcinoma
+MONDO_0009348,Classic Hodgkin Lymphoma
+MONDO_0010726,Rett Syndrome
+EFO_0003095,Non-Alcoholic Fatty Liver Disease
+EFO_0009963,Bipolar I Disorder
+EFO_0010072,Toothache
+EFO_0007214,Common Cold
+EFO_0003770,Diabetic Retinopathy
+EFO_0001365,Age-Related Macular Degeneration
+EFO_0003894,Acne
+EFO_0000564,Leiomyosarcoma
+EFO_0003841,Thyroid Neoplasm
+EFO_0004192,Alopecia Areata
+MONDO_0016642,Meningioma
+EFO_0005232,Endometrium Adenocarcinoma
+MONDO_0000544,Mucosal Melanoma
+EFO_0009854,Treatment Resistant Depression
+EFO_0006834,Septic Shock
+HP_0002017,Nausea And Vomiting
+EFO_1001069,Ocular Hypertension
+EFO_0002615,Internal Carotid Artery Stenosis
+EFO_0000763,Viral Disease
+EFO_1001100,Peritoneal Neoplasm
+EFO_0004699,Gambling Behaviour
+EFO_0002914,Uterine Sarcoma
+MONDO_0041052,Postherpetic Neuralgia
+MONDO_0018373,Avascular Necrosis
+EFO_1001779,Chronic Myelomonocytic Leukemia
+EFO_0000199,Oral Squamous Cell Carcinoma
+EFO_0004208,Vitiligo
+EFO_0004210,Gallstones
+EFO_0004255,Nephrotic Syndrome
+MONDO_0021148,Female Reproductive System Neoplasm
+EFO_0008522,Secondary Progressive Multiple Sclerosis
+EFO_0003877,Sleep Apnea
+EFO_1001412,Renal Colic
+EFO_1000645,Orthostatic Intolerance
+EFO_0000278,Pancreatitis
+EFO_1000796,Adrenal Cortex Carcinoma
+EFO_0005088,Testicular Carcinoma
+MONDO_0002898,Skin Cancer
+EFO_0004288,Colonic Neoplasm
+EFO_0005251,Hypotension
+EFO_0004234,Erectile Dysfunction
+EFO_1000786,"Osteoarthritis, Hip"
+EFO_0008524,Small Cell Carcinoma
+HP_0001250,Seizure
+EFO_1000045,Pancreatic Neuroendocrine Tumor
+EFO_0000558,Kaposi'S Sarcoma
+HP_0002027,Abdominal Pain
+MONDO_0019472,Extranodal Nasal Nk/T Cell Lymphoma
+MONDO_0005271,Allergic Disease
+HP_0002019,Constipation
+EFO_0004209,Hypospadias
+EFO_0004991,Myasthenia Gravis
+EFO_1001110,Pituitary-Dependent Cushing'S Disease
+EFO_1001250,Rotator Cuff Tear
+MONDO_0008300,Prader-Willi Syndrome
+HP_0000023,Inguinal Hernia
+MONDO_0005475,Migraine With Aura
+MONDO_0010679,Duchenne Muscular Dystrophy
+EFO_0010702,Opioid Use Disorder
+EFO_0003778,Psoriatic Arthritis
+MONDO_0001879,Anus Cancer
+EFO_0004683,Wet Macular Degeneration
+EFO_1000550,Splenic Marginal Zone Lymphoma
+EFO_1001494,Psoriasis Vulgaris
+EFO_0003100,Peripheral Neuropathy
+EFO_0000466,Endometrioid Carcinoma
+EFO_0005924,Binge Eating
+HP_0000360,Tinnitus
+EFO_1001974,Uterine Leiomyosarcoma
+EFO_0007359,Mast-Cell Leukemia
+EFO_0004265,Peripheral Arterial Disease
+EFO_0005204,Bulimia Nervosa
+EFO_0009686,Respiratory Failure
+EFO_0005279,Temporomandibular Joint Disorder
+EFO_0009907,Desmoid-Type Fibromatosis
+MONDO_0020743,Mixed Phenotype Acute Leukemia
+EFO_0000231,Adenoid Cystic Carcinoma
+EFO_0003834,Cutaneous Lupus Erythematosus
+MONDO_0000873,Lymphoblastic Lymphoma
+MONDO_0005411,Gallbladder Cancer
+EFO_0000538,Hypertrophic Cardiomyopathy
+EFO_1001898,Mucositis
+EFO_1000781,Overactive Bladder
+EFO_1000350,Malignant Bone Neoplasm
+EFO_0004247,Mood Disorder
+EFO_0009620,Rib Fracture
+HP_0000964,Eczema
+EFO_0000666,Portal Hypertension
+EFO_0007453,Postpartum Depression
+EFO_0009846,Muscle Cramp
+MONDO_0018076,Tuberculosis
+EFO_0004190,Open-Angle Glaucoma
+MONDO_0018531,Carcinoma Of Liver And Intrahepatic Biliary Tract
+EFO_1000172,Cervical Squamous Cell Carcinoma
+HP_0000020,Urinary Incontinence
+EFO_0000432,Breast Ductal Carcinoma In Situ
+EFO_0000255,Angioimmunoblastic T-Cell Lymphoma
+MONDO_0019471,Adult T-Cell Leukemia/Lymphoma
+MONDO_0019180,Hereditary Hemorrhagic Telangiectasia
+EFO_1000042,Ovarian Clear Cell Adenocarcinoma
+EFO_0005046,Cutaneous Leishmaniasis
+EFO_0002614,Insulin Resistance
+EFO_0004230,Endometrial Neoplasm
+EFO_0003964,Hip Fracture
+EFO_0004278,Sudden Cardiac Arrest
+EFO_1001231,Uveitis
+EFO_0009709,Metastatic Neoplasm
+HP_0003326,Myalgia
+EFO_0000319,Cardiovascular Disease
+MONDO_0005149,Pulmonary Hypertension
+EFO_1001459,Diabetic Foot
+EFO_1001471,Merkel Cell Skin Cancer
+MONDO_0021187,Hyperlipidemia
+MONDO_0011705,Lymphangioleiomyomatosis
+EFO_1001947,Childhood T Acute Lymphoblastic Leukemia
+EFO_0003882,Osteoporosis
+EFO_0007149,Appendicitis
+MONDO_0019297,Lymphedema
+EFO_0000512,Reproductive System Disease
+MONDO_0008867,Biliary Atresia
+EFO_0000660,Polycystic Ovary Syndrome
+MONDO_0044937,Rectal Carcinoma
+EFO_0004244,Interstitial Lung Disease
+HP_0004419,Recurrent Thrombophlebitis
+HP_0003394,Muscle Spasm
+EFO_0003956,Seasonal Allergic Rhinitis
+EFO_0003015,Aggressive Behavior
+EFO_0004256,Neuromyelitis Optica
+EFO_0000398,Dermatomyositis
+EFO_1000613,Uterine Carcinosarcoma
+MONDO_0019338,Sarcoidosis
+EFO_1001998,Complex Regional Pain Syndrome
+EFO_0008533,Dyspepsia
+HP_0003124,Hypercholesterolemia
+HP_0001268,Mental Deterioration
+EFO_0007183,Bronchiolitis Obliterans
+HP_0001643,Patent Ductus Arteriosus
+EFO_0000701,Skin Disease
+HP_0001397,Hepatic Steatosis
+EFO_0003966,Eye Disease
+EFO_0004216,Conduct Disorder
+MONDO_0005299,Brain Ischemia
+MONDO_0004565,Intestinal Obstruction
+EFO_0000731,Uterine Fibroid
+EFO_1001931,Oropharynx Cancer
+EFO_0000713,Subarachnoid Hemorrhage
+HP_0006536,Airway Obstruction
+EFO_0004262,Panic Disorder
+EFO_0600064,Serum Lipopolysaccharide Activity
+EFO_0003872,Colitis
+MONDO_0002258,Pharyngitis
+EFO_0001416,Cervical Adenocarcinoma
+EFO_0002609,Juvenile Idiopathic Arthritis
+EFO_1001345,"Hepatitis, Alcoholic"
+EFO_0003865,Kidney Neoplasm
+EFO_1000941,Frozen Shoulder
+EFO_0000765,Aids
+EFO_0003818,Lung Disease
+EFO_0004212,Keloid
+EFO_0008520,Primary Progressive Multiple Sclerosis
+EFO_0000239,Adrenal Gland Pheochromocytoma
+EFO_1001216,Tooth Disease
+EFO_1001050,Multiple System Atrophy
+EFO_1001139,Pulpitis
+DOID_13406,Pulmonary Sarcoidosis
+HP_0012167,Hair-Pulling
+EFO_0004193,Basal Cell Carcinoma
+EFO_0000649,Periodontitis
+EFO_1000157,Central Nervous System Lymphoma
+MONDO_0026045,Prurigo Nodularis
+EFO_0003943,Humerus Fracture
+EFO_0004566,Body Weight Gain
+HP_0030834,Shoulder Pain
+HP_0001399,Hepatic Failure
+MONDO_0002406,Dermatitis
+EFO_0003868,Mouth Neoplasm
+EFO_0000266,Aortic Stenosis
+EFO_0004997,Type 2 Diabetes Nephropathy
+EFO_0002496,Actinic Keratosis
+EFO_0009855,Frontal Fibrosing Alopecia
+EFO_1000985,Intermediate Coronary Syndrome
+MONDO_0018975,Neurofibromatosis Type 1
+EFO_0000556,Ischemia
+EFO_0003103,Urinary Tract Infection
+EFO_1001496,Autosomal Dominant Polycystic Kidney Disease
+HP_0003040,Arthropathy
+EFO_1000782,Altitude Sickness
+EFO_1001892,Generalized Anxiety Disorder
+EFO_0003911,Atrial Flutter
+EFO_0004710,Pelvic Organ Prolapse
+EFO_0007490,Spinal Stenosis
+MONDO_0015760,T-Cell Non-Hodgkin Lymphoma
+EFO_0005950,Head And Neck Neoplasia
+HP_0001943,Hypoglycemia
+EFO_0004273,Scoliosis
+HP_0004308,Ventricular Arrhythmia
+Orphanet_145,Hereditary Breast And Ovarian Cancer Syndrome
+EFO_0009314,Blood Coagulation Disease
+HP_0004326,Cachexia
+EFO_1001757,Adenomyosis
+EFO_0004280,Movement Disorder
+EFO_0004197,Hepatitis B Virus Infection
+MONDO_0044704,Oropharynx Squamous Cell Carcinoma
+EFO_0001064,Down Syndrome
+Orphanet_365,Glycogen Storage Disease Due To Acid Maltase Deficiency
+HP_0012378,Fatigue
+EFO_1001158,Retinopathy Of Prematurity
+EFO_0009444,Hypoxia
+EFO_0009430,Neuralgia
+EFO_0000284,Benign Prostatic Hyperplasia
+EFO_1000956,Hairy Cell Leukemia
+EFO_0007143,Alveolar Soft Part Sarcoma
+EFO_0009688,Stomatitis
+EFO_0006890,Fibrosis
+EFO_0004259,Osteonecrosis
+EFO_0004211,Hypertriglyceridemia
+EFO_0801084,Cancer Pain
+MONDO_0005129,Cataract
+MONDO_0015540,Hemophagocytic Syndrome
+EFO_1001176,Sensorineural Hearing Loss
+HP_0005184,Prolonged Qtc Interval
+EFO_0002460,Hypertrophy
+EFO_1000760,Rosacea
+EFO_1001331,"Genital Neoplasm, Female"
+MONDO_0044970,Mitochondrial Disease
+HP_0001410,Decreased Liver Function
+EFO_1000726,Lichen Planus
+EFO_1001366,Mastodynia
+EFO_0008493,Cerebral Small Vessel Disease
+MONDO_0002462,Glomerulonephritis
+EFO_1001209,Temporal Arteritis
+EFO_0007541,Viral Pneumonia
+EFO_1001121,Prediabetes Syndrome
+HP_0000545,Myopia
+EFO_0009552,Hemorrhoid
+HP_0002104,Apnea
+EFO_0002970,Muscular Disease
+EFO_0005044,Leishmaniasis
+EFO_1001513,Liver Neoplasm
+EFO_0002890,Renal Carcinoma
+EFO_0007416,Pancreatic Endocrine Carcinoma
+MONDO_0044917,T-Lymphoblastic Lymphoma
+EFO_0000318,Cardiomyopathy
+EFO_0009615,Ankle Fracture
+EFO_0008526,Status Epilepticus
+EFO_0005755,Rheumatic Disease
+EFO_1000864,Cholecystolithiasis
+MONDO_0021681,Sexually Transmitted Disease
+EFO_0004287,Ventricular Fibrillation
+EFO_0004718,Vascular Dementia
+EFO_0007405,Optic Neuritis
+MONDO_0018997,Noonan Syndrome
+MONDO_0016586,Systemic Mastocytosis
+EFO_0009260,Non-Melanoma Skin Carcinoma
+EFO_1001875,Amyloidosis
+EFO_0003948,Gastroesophageal Reflux Disease
+HP_0001541,Ascites
+Orphanet_309005,Disorder Of Lipid Metabolism
+HP_0002110,Bronchiectasis
+EFO_0803321,Premature Ejaculation
+EFO_1000789,"Osteoarthritis, Hand"
+MONDO_0002120,Neuroendocrine Carcinoma
+EFO_0005856,Arthritis
+MONDO_0018352,Squamous Cell Carcinoma Of Penis
+EFO_0003780,Behcet'S Syndrome
+EFO_0005800,Substance Withdrawal Syndrome
+EFO_1001935,Adult B Acute Lymphoblastic Leukemia
+EFO_1001904,Oral Mucositis
+MONDO_0002959,Radiculopathy
+MONDO_0023619,Lentigo Maligna Melanoma
+EFO_0000272,Astrocytoma
+EFO_1000292,Hepatoblastoma
+EFO_1000294,Her2 Positive Breast Carcinoma
+EFO_0000232,Adenoma
+EFO_0009387,Peripheral Nervous System Disease
+HP_0031273,Shock
+EFO_0006738,Plasmacytoma
+EFO_0004274,Gout
+MONDO_0008667,Von Hippel-Lindau Disease
+EFO_0004263,Partial Epilepsy
+EFO_0004232,Eosinophilic Esophagitis
+EFO_0003957,Radius Fracture
+EFO_0009001,Mastocytosis
+EFO_0004268,Sclerosing Cholangitis
+EFO_0000553,Invasive Lobular Carcinoma
+EFO_0004239,Chronic Hepatitis B Virus Infection
+MONDO_0011972,Ovarian Hyperstimulation Syndrome
+EFO_1001052,Myeloid Sarcoma
+MONDO_0009026,Costello Syndrome
+EFO_0004240,Heroin Dependence
+MONDO_0001020,Amblyopia
+MONDO_0016532,Lennox-Gastaut Syndrome
+MONDO_0002038,Head And Neck Carcinoma
+EFO_0000464,Emphysema
+EFO_1000238,Endometrial Serous Adenocarcinoma
+HP_0040187,Neonatal Sepsis
+EFO_0008518,Polymyalgia Rheumatica
+MONDO_0040678,Infiltrating Urothelial Carcinoma
+EFO_1001434,Tendinopathy
+EFO_0005669,Intracerebral Hemorrhage
+MONDO_0004938,Substance Dependence
+EFO_1001466,Graves Ophthalmopathy
+EFO_0005531,Urticaria
+EFO_0005297,Granulomatosis With Polyangiitis
+EFO_0002500,Anaplastic Oligoastrocytoma
+MONDO_0002715,Uterine Cancer
+EFO_1001264,"Anemia, Hemolytic, Autoimmune"
+EFO_1000764,Seborrheic Dermatitis
+EFO_0006505,Chronic Bronchitis
+EFO_1001467,Hypereosinophilic Syndrome
+HP_0001824,Weight Loss
+MONDO_0015280,Cardiofaciocutaneous Syndrome
+EFO_1001857,Takayasu Arteritis
+HP_0008419,Intervertebral Disc Degeneration
+MONDO_0024355,Respiratory Tract Infectious Disorder
+EFO_1000478,Pituitary Gland Adenoma
+EFO_1001896,Lateral Epicondylitis
+HP_0030839,Knee Pain
+MONDO_0024503,Digestive System Neuroendocrine Neoplasm
+EFO_1001219,Trigeminal Neuralgia
+HP_0002039,Anorexia
+MONDO_0004643,Myeloid Leukemia
+EFO_1000749,Pemphigus
+EFO_0004719,Pemphigus Vulgaris
+HP_0002094,Dyspnea
+MONDO_0019438,Al Amyloidosis
+EFO_1000844,Brachial Plexus Neuropathy
+EFO_1001821,Osteoradionecrosis
+MONDO_0000594,Pervasive Developmental Disorder
+EFO_0011023,Concussion
+EFO_0004194,Iga Glomerulonephritis
+EFO_1000809,Anterior Ischemic Optic Neuropathy
+EFO_0003922,Menopause
+EFO_1000965,Henoch-Schoenlein Purpura
+EFO_1000249,Extramammary Paget Disease
+HP_0001873,Thrombocytopenia
+HP_0011110,Recurrent Tonsillitis
+EFO_0006788,Anxiety Disorder
+MONDO_0000726,Idiopathic Scoliosis
+HP_0002829,Arthralgia
+EFO_1000388,Myelodysplastic/Myeloproliferative Neoplasm
+HP_0001945,Fever
+HP_0002239,Gastrointestinal Hemorrhage
+EFO_1001178,Shoulder Impingement Syndrome
+EFO_0000540,Immune System Disease
+EFO_0003925,Cognition
+MONDO_0002146,Hypogonadism
+HP_0001257,Spasticity
+EFO_0007224,Coronavirus Infectious Disease
+MONDO_0011934,Dermatofibrosarcoma Protuberans
+Orphanet_733,Familial Adenomatous Polyposis
+HP_0000016,Urinary Retention
+EFO_0004143,Carpal Tunnel Syndrome
+EFO_0001063,Deafness
+EFO_1001413,Respiratory Syncytial Virus Infection
+EFO_0008553,Femur Fracture
+HP_0001742,Nasal Congestion
+EFO_1001492,Atrophic Macular Degeneration
+EFO_1002012,Ligament Rupture
+MONDO_0017276,Frontotemporal Dementia
+EFO_0000218,Acute Erythroleukemia
+EFO_0000223,Acute Myelomonocytic Leukemia
+EFO_0003027,Acute Myeloblastic Leukemia Without Maturation
+EFO_0003757,Asperger Syndrome
+EFO_0004264,Vascular Disease
+HP_0012228,Tension-Type Headache
+HP_0031217,Hot Flashes
+EFO_0003050,Large Cell Lung Carcinoma
+EFO_1001938,B-Cell Non-Hodgkins Lymphoma
+HP_0001249,Intellectual Disability
+EFO_0000330,Childhood Acute Myeloid Leukemia
+EFO_0005799,Neonatal Abstinence Syndrome
+HP_0002196,Myelopathy
+HP_0002014,Diarrhea
+EFO_1000059,Cervical Artery Dissection
+MONDO_0017287,Igg4-Related Disease
+MONDO_0018555,Hypogonadotropic Hypogonadism
+EFO_0004286,Venous Thromboembolism
+MONDO_0044925,Oral Cavity Carcinoma
+EFO_0004214,Abdominal Aortic Aneurysm
+EFO_0003921,Pouchitis
+EFO_0004236,Focal Segmental Glomerulosclerosis
+EFO_1000391,Nasal Cavity Polyp
+EFO_0003854,Postmenopausal Osteoporosis
+HP_0010992,Stress Urinary Incontinence
+EFO_0009562,Polyneuropathy
+HP_0001082,Cholecystitis
+EFO_0009448,Pulmonary Fibrosis
+EFO_0003025,Acute Megakaryoblastic Leukaemia
+EFO_0003895,Epistaxis
+EFO_1000318,Langerhans Cell Histiocytosis
+EFO_0005773,Retinal Detachment
+EFO_0004320,Suicidal Ideation
+EFO_0007262,Epilepsy With Generalized Tonic-Clonic Seizures
+MONDO_0012825,Extraskeletal Myxoid Chondrosarcoma
+HP_0004755,Supraventricular Tachycardia
+MONDO_0015626,Charcot-Marie-Tooth Disease
+EFO_1000880,Corneal Neovascularization
+EFO_1001792,Femoral Neck Fracture
+EFO_0007355,Male Reproductive Organ Cancer
+HP_0000175,Cleft Palate
+HP_0004798,Recurrent Infection Of The Gastrointestinal Tract
+EFO_0009842,Respiratory Depression
+MONDO_0001583,Diabetic Polyneuropathy
+MONDO_0004784,Allergic Asthma
+EFO_0009582,Sprain
+EFO_1000494,Primary Peritoneal Serous Adenocarcinoma
+HP_0002045,Hypothermia
+EFO_1001936,Adult T Acute Lymphoblastic Leukemia
+EFO_1000630,Marginal Zone B-Cell Lymphoma
+MONDO_0002635,Periodontal Disorder
+EFO_0008525,Spinal Muscular Atrophy
+HP_0200042,Skin Ulcer
+EFO_0004799,Cholelithiasis
+EFO_0000760,Malignant Peripheral Nerve Sheath Tumor
+EFO_0008623,Dysthymic Disorder
+EFO_0000684,Respiratory System Disease
+HP_0001907,Thromboembolism
+MONDO_0021698,Alcohol-Related Disorders
+MONDO_0015643,Photosensitive Epilepsy
+MONDO_0019091,Bronchopulmonary Dysplasia
+HP_0004398,Peptic Ulcer
+EFO_0009676,Musculoskeletal System Disease
+EFO_0003030,Abscess
+HP_0001822,Hallux Valgus
+EFO_1000028,Ependymoma
+MONDO_0003778,Inborn Error Of Immunity
+MONDO_0024647,Urolithiasis
+MONDO_0002471,Bursitis
+EFO_0003085,Dedifferentiated Liposarcoma
+EFO_0003878,Urethritis
+MONDO_0021321,Malignant Tumor Of Extrahepatic Bile Duct
+HP_0002381,Aphasia
+MONDO_0002884,Nail Disorder
+EFO_1001461,Endothelial Dysfunction
+MONDO_0021107,Narcolepsy
+MONDO_0002679,Cerebral Infarction
+MONDO_0001134,Essential Hypertension
+EFO_1001890,Food Allergy
+EFO_0003958,Sunburn
+EFO_1001905,Oxidative Stress
+EFO_0000186,Invasive Breast Ductal Carcinoma
+EFO_0004708,Nodular Sclerosis Hodgkin Lymphoma
+EFO_1000668,Allergic Contact Dermatitis
+EFO_0009364,Non-Allergic Rhinitis
+MONDO_0019474,Hepatosplenic T-Cell Lymphoma
+EFO_0001376,Synovial Sarcoma
+GO_0035483,Gastric Emptying
+EFO_0010822,Stenosing Tenosynovitis
+EFO_0000557,Juvenile Dermatomyositis
+EFO_1000961,Helicobacter Pylori Infectious Disease
+EFO_0010282,Gastrointestinal Disease
+HP_0001952,Glucose Intolerance
+EFO_0003932,Bacterial Vaginosis
+MONDO_0016486,Beta-Thalassemia Major
+HP_0030680,Abnormality Of Cardiovascular System Morphology
+HP_0012594,Moderate Albuminuria
+EFO_0001069,Nutritional Disorder
+HP_0002015,Dysphagia
+EFO_0005570,Oral Cavity Cancer
+EFO_0003835,Anal Neoplasm
+EFO_0003028,Acute Myeloblastic Leukemia With Maturation
+HP_0002093,Respiratory Insufficiency
+EFO_1001012,Leptomeningeal Metastasis
+EFO_0005541,Bone Development Disease
+EFO_0009851,Muscle Atrophy
+EFO_1000724,Lichen Disease
+MONDO_0100130,Adult Acute Respiratory Distress Syndrome
+MONDO_0003005,Macular Retinal Edema
+EFO_0006862,Meniere Disease
+HP_0000103,Polyuria
+EFO_1000904,Drug-Induced Dyskinesia
+MONDO_0004658,Breast Carcinoma In Situ
+EFO_1001361,Localised Scleroderma
+HP_0011974,Myelofibrosis
+EFO_1001485,Acromegaly
+EFO_1000357,Malignant Ovarian Brenner Tumor
+MONDO_0100053,Anaphylaxis
+EFO_0007634,Major Depressive Episode
+EFO_1001806,Macrophage Activation Syndrome
+EFO_0007427,Pericarditis
+EFO_1001034,Mastitis
+EFO_1001887,Epicondylitis
+MONDO_0003061,Benign Muscle Neoplasm
+EFO_0000308,Bronchoalveolar Adenocarcinoma
+EFO_0003820,Bone Neoplasm
+EFO_0005532,Angioedema
+MONDO_0001208,Acute Respiratory Failure
+MONDO_0016107,Myotonic Dystrophy
+Orphanet_273,Steinert Myotonic Dystrophy
+EFO_1001996,Thalassemia
+HP_0000138,Ovarian Cyst
+EFO_0008572,Malnutrition
+EFO_0003870,Brain Aneurysm
+HP_0002321,Vertigo
+MONDO_0001572,Leiomyoma
+EFO_0009867,Dysphoria
+HP_0001657,Prolonged Qt Interval
+EFO_0000233,Adenosquamous Lung Carcinoma
+HP_0002619,Varicose Veins
+EFO_0007202,Cervical Incompetence
+EFO_0009508,Leg Injury
+HP_0025428,Bronchospasm
+EFO_0009637,Pleural Effusion
+EFO_0010582,Morton Neuroma
+EFO_1001054,Myofascial Pain Syndrome
+EFO_0007319,Hyperprolactinemia
+EFO_0003827,Pulmonary Embolism
+EFO_0000536,Hyperplasia
+HP_0002571,Achalasia
+EFO_0004606,Gallbladder Neoplasm
+MONDO_0010826,Childhood Absence Epilepsy
+MONDO_0024290,Enuresis
+HP_0003470,Paralysis
+HP_0000737,Irritability
+EFO_0000404,Diffuse Scleroderma
+EFO_1001870,Late-Onset Alzheimers Disease
+EFO_1000644,Newborn Respiratory Distress Syndrome
+EFO_1001999,Systemic Juvenile Idiopathic Arthritis
+HP_0010865,Oppositional Defiant Disorder
+EFO_0003033,Bacteriemia
+EFO_0009540,Dental Pulp Disease
+HP_0001385,Hip Dysplasia
+EFO_1001946,Childhood B Acute Lymphoblastic Leukemia
+MONDO_0006715,Coronary Stenosis
+EFO_0000407,Dilated Cardiomyopathy
+MONDO_0018944,Gestational Trophoblastic Neoplasm
+EFO_0008510,Lyme Disease
+MONDO_0016028,Erythromelalgia
+MONDO_0002171,Giant Cell Tumor
+EFO_0003876,Intermittent Vascular Claudication
+MONDO_0008458,Spinocerebellar Ataxia Type 2
+EFO_1000852,Carcinoid Syndrome
+EFO_0002628,Peripartum Cardiomyopathy
+EFO_0000094,B-Cell Acute Lymphoblastic Leukemia
+EFO_1001454,Amnesia
+EFO_1000419,Ovarian Germ Cell Tumor
+HP_0100749,Chest Pain
+MONDO_0019088,Post-Transplant Lymphoproliferative Disease
+MONDO_0100339,Friedreich Ataxia
+EFO_1000954,Habitual Abortion
+EFO_1001460,Diverticulitis
+HP_0003074,Hyperglycemia
+MONDO_0021661,Coronary Atherosclerosis
+EFO_0011057,Neurotoxicity
+EFO_0003901,Dysuria
+EFO_0005109,Energy Expenditure
+EFO_0008586,Non-St Elevation Myocardial Infarction
+EFO_1000905,Drug-Induced Hepatitis
+EFO_0000280,Barrett'S Esophagus
+EFO_1002005,Lumbar Disc Herniation
+EFO_1001463,Gastroenteritis
+EFO_0003907,Deep Vein Thrombosis
+HP_0000938,Osteopenia
+EFO_0003839,Retinopathy
+EFO_0007168,Berylliosis
+EFO_0004609,Treatment Refractory Schizophrenia
+MONDO_0002420,Tic Disorder
+MONDO_0100062,Developmental And Epileptic Encephalopathy
+HP_0001298,Encephalopathy
+EFO_0004238,Hearing Loss
+EFO_1002017,Differentiated Thyroid Carcinoma
+EFO_0009373,Edema
+MONDO_0021074,Precancerous Condition
+HP_0012115,Hepatitis
+EFO_1000999,Joint Disease
+EFO_0003875,Peripheral Vascular Disease
+EFO_1000635,Hemangioma
+EFO_0009514,Upper Extremity Fracture
+MONDO_0021739,Prurigo
+HP_0001871,Abnormality Of Blood And Blood-Forming Tissues
+HP_0004936,Venous Thrombosis
+EFO_0004257,Neurotic Disorder
+Orphanet_33069,Dravet Syndrome
+EFO_0002546,Abnormal Glucose Tolerance
+EFO_0010680,Hematoma
+EFO_0007053,Myelosuppression
+MONDO_0020066,Ehlers-Danlos Syndrome
+HP_0005521,Disseminated Intravascular Coagulation
+EFO_1001157,Retinal Vein Occlusion
+EFO_0005628,Proctitis
+EFO_0003852,Developmental Disability
+EFO_0008588,Peritonitis
+MONDO_0002358,Laryngeal Carcinoma
+MONDO_0010602,Hemophilia A
+EFO_0007430,Persian Gulf Syndrome
+HP_0000738,Hallucinations
+EFO_0004149,Neuropathy
+MONDO_0001087,Schizotypal Personality Disorder
+MONDO_0004379,Female Breast Carcinoma
+EFO_0006346,Severe Cutaneous Adverse Reaction
+EFO_1000899,Diastolic Heart Failure
+MONDO_0007295,Childhood Epilepsy With Centrotemporal Spikes
+Orphanet_83419,Proximal Spinal Muscular Atrophy Type 3
+HP_0025268,Stuttering
+MONDO_0021054,Bone Sarcoma
+EFO_1001373,Multiple Organ Failure
+EFO_0010642,Neurodevelopmental Disorder
+EFO_1001417,"Rhinitis, Allergic, Perennial"
+HP_0000486,Strabismus
+EFO_0008521,Rhinitis
+HP_0009926,Epiphora
+MONDO_0021310,Malignant Tumor Of Neck
+HP_0007359,Focal-Onset Seizure
+EFO_1002002,High Altitude Pulmonary Edema
+EFO_0000342,Chronic Pancreatitis
+MONDO_0001744,Angle-Closure Glaucoma
+EFO_0007141,Allergic Conjunctivitis
+EFO_0009507,Knee Injury
+EFO_1001097,Periarthritis
+EFO_1001435,Tenosynovitis
+EFO_1001909,Plantar Fasciitis
+HP_0030838,Hip Pain
+MONDO_0016047,Endophthalmitis
+EFO_0006792,Lewy Body Dementia
+HP_0001300,Parkinsonism
+EFO_0009954,Post-Operative Delirium
+MONDO_0037939,Porphyria
+EFO_0000563,Large Cell Neuroendocrine Carcinoma
+MONDO_0000088,Precocious Puberty
+EFO_1000877,Complex Partial Epilepsy
+EFO_1001141,Pyelonephritis
+MONDO_0022113,Central Centrifugal Cicatricial Alopecia
+EFO_0009964,Bipolar Ii Disorder
+EFO_0003832,Gallbladder Disease
+EFO_0010638,Atopic Asthma
+EFO_1001293,Collagenous Colitis
+EFO_1001294,Lymphocytic Colitis
+EFO_1001450,Wolff-Parkinson-White Syndrome
+MONDO_0002618,Undifferentiated High Grade Pleomorphic Sarcoma Of Bone
+EFO_0003819,Dental Caries
+EFO_1001134,Pulmonary Edema
+EFO_0009659,Aneurysm
+EFO_0008546,Poisoning
+MONDO_0022394,Cervical Intraepithelial Neoplasia
+MONDO_0017816,Primary Systemic Amyloidosis
+EFO_1000971,Hyperemesis Gravidarum
+EFO_0004593,Gestational Diabetes
+EFO_0008517,Oral Lichen Planus
+MONDO_0018097,West Syndrome
+MONDO_0018896,Thrombotic Thrombocytopenic Purpura
+EFO_1001154,Retinal Artery Occlusion
+EFO_0003099,Cushing Syndrome
+MONDO_0015263,Brugada Syndrome
+EFO_0003896,Left Ventricular Hypertrophy
+HP_0002069,Bilateral Tonic-Clonic Seizure
+EFO_0009315,Thrombophilia
+MONDO_0002775,Anovulation
+HP_0000132,Menorrhagia
+EFO_0010581,Organophosphate Poisoning
+EFO_1001132,Pseudotumor Cerebri
+HP_0001655,Patent Foramen Ovale
+MONDO_0017611,Pituitary Tumor
+EFO_0007231,Cysticercosis
+HP_0000999,Pyoderma
+EFO_0005577,Pharynx Cancer
+EFO_0005240,Rhegmatogenous Retinal Detachment
+MONDO_0007947,Marfan Syndrome
+EFO_0004992,Otitis Media
+EFO_0002689,Antiphospholipid Syndrome
+EFO_1000879,Corneal Edema
+HP_0001915,Aplastic Anemia
+EFO_0009658,Adverse Effect
+MONDO_0004169,Premenstrual Tension
+EFO_1001267,Aortic Coarctation
+EFO_0003944,Tibia Fracture
+EFO_0003817,Laryngeal Neoplasm
+EFO_0005754,Parathyroid Disease
+EFO_1001482,Cardiotoxicity
+EFO_1001119,Posterior Uveitis
+EFO_0002626,Thymus Neoplasm
+MONDO_0018479,Congenital Adrenal Hyperplasia
+MONDO_0005835,Lynch Syndrome
+EFO_0004607,Duodenal Ulcer
+EFO_1000910,Dysplasia Of Cervix
+EFO_0008516,Non-Functioning Pituitary Adenoma
+EFO_0003830,Prostatitis
+EFO_0009093,Choroidal Melanoma
+EFO_0009625,Facial Pain
+MONDO_0001330,Presbyopia
+EFO_0009531,Aortic Valve Disease
+Orphanet_1945,Rolandic Epilepsy
+EFO_0005529,Chagas Cardiomyopathy
+EFO_0009130,Clostridium Difficile Infection
+HP_0000011,Neurogenic Bladder
+EFO_1001106,Pigmented Villonodular Synovitis
+EFO_0004337,Intelligence
+EFO_0009493,Paroxysmal Tachycardia
+EFO_0002917,Ovarian Serous Adenocarcinoma
+EFO_1002014,Melancholia
+EFO_0004248,Male Infertility
+EFO_0006803,Vasculitis
+MONDO_0021666,Ear Infection
+EFO_0020094,Lambert-Eaton Myasthenic Syndrome
+HP_0001324,Muscle Weakness
+MONDO_0021553,Transverse Myelitis
+EFO_0000495,Fetal Growth Restriction
+GO_0007596,Blood Coagulation
+EFO_0000759,Lipoma
+EFO_1001984,Cardiac Amyloidosis
+HP_0200026,Ocular Pain
+MONDO_0001299,Diabetic Autonomic Neuropathy
+MONDO_0008195,Paramyotonia Congenita Of Von Eulenburg
+EFO_1001348,Hiv-Associated Lipodystrophy Syndrome
+EFO_0007448,Pneumocystosis
+EFO_0005406,Colorectal Adenoma
+MONDO_0015183,Short Bowel Syndrome
+GO_0030728,Ovulation
+Orphanet_848,Beta-Thalassemia
+HP_0030016,Dyspareunia
+EFO_0003940,Physical Activity
+MONDO_0004907,Alopecia
+MONDO_0024361,Circadian Rhythm Sleep Disorder
+EFO_0005039,Hippocampal Atrophy
+EFO_0007507,Thoracic Outlet Syndrome
+EFO_0009951,Response To Surgery
+EFO_1001240,Vulvovaginitis
+HP_0000951,Abnormality Of The Skin
+HP_0009762,Facial Wrinkling
+HP_0031292,Cutaneous Abscess
+MONDO_0000903,Myoclonus-Dystonia Syndrome
+MONDO_0001697,Reading Disorder
+MONDO_0007571,Primary Erythermalgia
+EFO_0008590,Status Asthmaticus
+EFO_0005612,Morphine Dependence
+HP_0031844,Euphoria
+HP_0100716,Self-Injurious Behavior
+EFO_1001801,Intracranial Subdural Hematoma
+EFO_1000653,Sarcopenia
+HP_0001662,Bradycardia
+MONDO_0043839,Ulcer Disease
+MONDO_0015597,Pustulosis Palmaris Et Plantaris
+EFO_0005758,Cycloplegia
+HP_0011499,Mydriasis
+EFO_0009386,Central Nervous System Disease
+EFO_0004777,Alcohol Withdrawal
+MONDO_0010526,Fabry Disease
+EFO_0009447,Hypoxemia
+EFO_1001161,Rheumatic Heart Disease
+EFO_1001006,Klinefelter'S Syndrome
+HP_0001336,Myoclonus
+EFO_0009959,Diverticular Disease
+EFO_0000706,Spondyloarthropathy
+MONDO_0000432,Lymphoplasmacytic Lymphoma
+MONDO_0024475,Squamous Cell Intraepithelial Neoplasia
+EFO_1000949,Gastroschisis
+EFO_1000986,Intermediate Uveitis
+MONDO_0016158,Narcolepsy-Cataplexy Syndrome
+EFO_0004246,Mucocutaneous Lymph Node Syndrome
+EFO_1001908,Phobic Disorder
+MONDO_0004247,Peptic Ulcer Disease
+EFO_0007304,Hepatitis D Virus Infection
+EFO_1000720,Keratosis
+MONDO_0004857,Tendinitis
+HP_0011950,Bronchiolitis
+EFO_1001207,Systolic Heart Failure
+EFO_1001916,Separation Anxiety Disorder
+EFO_1001884,Dental Phobia
+EFO_0000662,Polyp
+HP_0000771,Gynecomastia
+EFO_0000771,Bacterial Disease
+EFO_0009523,Fecal Incontinence
+EFO_0006772,Undifferentiated Carcinoma
+EFO_1000233,Endometrial Endometrioid Adenocarcinoma
+EFO_0000772,Pneumococcal Infection
+EFO_0002756,Fasting
+EFO_1000831,Bacterial Meningitis
+EFO_1001092,Patellofemoral Pain Syndrome
+EFO_1001476,Streptococcal Infection
+EFO_1001891,Gastrointestinal Mucositis
+HP_0002373,Febrile Seizure (Within The Age Range Of 3 Months To 6 Years)
+MONDO_0000468,Third-Degree Atrioventricular Block
+HP_0012664,Reduced Left Ventricular Ejection Fraction
+MONDO_0008907,Pmm2-Congenital Disorder Of Glycosylation
+EFO_0009661,Bronchitis
+EFO_0008560,Female Infertility
+EFO_0005676,Autoimmune Hepatitis
+EFO_0007533,Vasomotor Rhinitis
+EFO_1001927,Cutaneous Squamous Cell Carcinoma
+EFO_0003073,Asymptomatic Myeloma
+EFO_1001022,Low Tension Glaucoma
+EFO_1000234,Endometrial Hyperplasia Without Atypia
+MONDO_0043771,Radiodermatitis
+MONDO_0018848,Igg4-Related Retroperitoneal Fibrosis
+MONDO_0021355,Neoplasm Of Esophagus
+MONDO_0003937,Spondylitis
+MONDO_0019623,Hereditary Angioedema
+EFO_0009952,Post-Operative Atrial Fibrillation
+EFO_0009545,Esophageal Varices
+HP_0002105,Hemoptysis
+MONDO_0002280,Anemia
+EFO_1000860,Cerebral Atherosclerosis
+MONDO_0001162,Impulse Control Disorder
+HP_0000093,Proteinuria
+HP_0025267,Snoring
+EFO_0007187,Bullous Pemphigoid
+MONDO_0001382,Hepatorenal Syndrome
+EFO_0000279,Azoospermia
+EFO_0007227,Croup
+EFO_1001222,Type Iii Hypersensitivity Reaction Disease
+EFO_0005804,Polycythemia
+EFO_1001065,Normal Pressure Hydrocephalus
+MONDO_0008223,Hypokalemic Periodic Paralysis
+MONDO_0008224,Hyperkalemic Periodic Paralysis
+MONDO_0019499,Turner Syndrome
+EFO_1001893,Hand-Foot Syndrome
+HP_0000975,Hyperhidrosis
+MONDO_0001370,Pericardial Effusion
+EFO_0007228,Cryptococcal Meningitis
+EFO_0001062,Cytomegalovirus Infection
+EFO_0000678,Pterygium
+EFO_0003959,Cleft Lip
+EFO_1001932,Adult Acute Megakaryoblastic Leukemia
+HP_0011277,Abnormality Of The Urinary System Physiology
+EFO_1001271,Atrophic Vaginitis
+EFO_1001945,Childhood Acute Myeloid Leukemia With Maturation
+MONDO_0002887,Bile Duct Disorder
+Orphanet_98974,Fuchs Endothelial Corneal Dystrophy
+EFO_1001814,Nephrogenic Fibrosing Dermopathy
+HP_0000616,Miosis
+EFO_1000025,Cystitis
+EFO_0009609,Myocarditis
+MONDO_0001475,Neutropenia
+EFO_0003763,Cerebrovascular Disorder
+EFO_0009322,Proliferative Diabetic Retinopathy
+EFO_0004276,Stevens-Johnson Syndrome
+HP_0003270,Abdominal Distention
+MONDO_0019139,Acquired Hemophilia
+MONDO_0001641,Severe Pre-Eclampsia
+EFO_1000231,Endometrial Clear Cell Adenocarcinoma
+EFO_0007347,Listeriosis
+MONDO_0011035,Neurofibromatosis-Noonan Syndrome
+EFO_0002616,Macroglobulinemia
+EFO_0009006,Hyperandrogenism
+EFO_1002029,Chronic Rhinosinusitis With Nasal Polyps
+HP_0000639,Nystagmus
+EFO_0009449,Keratitis
+EFO_0005752,Eye Inflammation
+EFO_0004540,Chronic Fatigue Syndrome
+EFO_1000412,Ovarian Carcinosarcoma
+Orphanet_79211,Combined Hyperlipidemia
+MONDO_0007113,Angelman Syndrome
+EFO_1001491,Abortion
+MONDO_0002203,Constipation Disorder
+EFO_0000589,Metabolic Disease
+EFO_0004277,Brain Infarction
+MONDO_0010311,Becker Muscular Dystrophy
+EFO_0003811,Refractory Anemia With Excess Blasts
+EFO_0009536,Blepharitis
+EFO_1000784,Microscopic Polyangiitis
+MONDO_0007935,Cystoid Macular Edema
+EFO_0000502,Ganglioneuroblastoma
+HP_0001510,Growth Delay
+EFO_0009104,Hyperuricemia
+EFO_0009488,Spinal Cord Disease
+HP_0008209,Premature Ovarian Insufficiency
+EFO_1000747,Parapsoriasis
+EFO_1001062,Nodular Goiter
+EFO_0007415,Otitis Media With Effusion
+HP_0011015,Abnormal Blood Glucose Concentration
+EFO_0008620,Polycystic Kidney Disease
+EFO_0004364,Neurobehavioral Manifestations
+EFO_0007493,Spondylolisthesis
+EFO_0008571,Viral Conjunctivitis
+EFO_0009560,Otitis Externa
+EFO_0009657,Acute Pharyngitis
+EFO_1002022,Herpes Simplex Infection
+MONDO_0021108,Meningitis
+EFO_1000694,Erythema Multiforme
+Orphanet_269,Facioscapulohumeral Dystrophy
+MONDO_0015974,Severe Combined Immunodeficiency
+MONDO_0018338,Activated Pi3K-Delta Syndrome
+EFO_1001866,Ventral Hernia
+EFO_1000979,Hypothalamic Neoplasm
+EFO_0009870,Bone Metastasis
+EFO_0009869,Xerostomia
+HP_0001653,Mitral Regurgitation
+MONDO_0004880,Bowel Dysfunction
+EFO_1000811,Anterior Uveitis
+EFO_1000562,Tenosynovial Giant Cell Tumor
+HP_0001337,Tremor
+EFO_0005223,Acute Stress Reaction
+HP_0000155,Oral Ulcer
+MONDO_0018982,Niemann-Pick Disease Type C
+HP_0001649,Tachycardia
+MONDO_0018800,Kallmann Syndrome
+EFO_0007460,Reactive Arthritis
+EFO_1001973,Ureter Urothelial Carcinoma
+EFO_0009483,Breast Disease
+EFO_0009727,Shortness Of Breath
+HP_0033454,Tube Feeding
+MONDO_0021233,Ear Neoplasm
+HP_0005268,Miscarriage
+EFO_1000096,Atrophy
+EFO_0010270,Menstrual Disorder
+HP_0100790,Hernia
+EFO_1000926,Erdheim-Chester Disease
+EFO_0003764,Transient Ischemic Attack
+MONDO_0044211,Idiopathic Urticaria
+MONDO_0015719,Severe Hemophilia A
+EFO_0004517,Arterial Stiffness Measurement
+EFO_1001109,Pituitary Dwarfism
+EFO_0003837,Calcification
+MONDO_0001705,Pure Red-Cell Aplasia
+EFO_0000778,Anthrax Infection
+HP_0002024,Malabsorption
+HP_0004322,Short Stature
+EFO_1001923,Varicose Ulcer
+MONDO_0000485,Spasmodic Dystonia
+HP_0000618,Blindness
+EFO_1002018,Bronchial Disease
+MONDO_0012511,Preterm Premature Rupture Of The Membranes
+EFO_0009512,Lower Extremity Fracture
+EFO_0010269,Amenorrhea
+HP_0100608,Metrorrhagia
+MONDO_0018075,Neural Tube Defect
+EFO_0006928,Motion Sickness
+MONDO_0001718,Scleritis
+EFO_0004191,Androgenetic Alopecia
+EFO_1001228,Ureterolithiasis
+EFO_0009085,Arterial Occlusive Disease
+HP_0030242,Portal Vein Thrombosis
+MONDO_0002247,Factor X Deficiency
+EFO_1002023,Plantar Wart
+MONDO_0018044,Idiopathic Hypersomnia
+EFO_0001060,Celiac Disease
+EFO_0002497,Acute Hypotension
+EFO_0007450,Poliomyelitis
+MONDO_0021400,Polyp Of Colon
+MONDO_0024664,"Hypertension, Pregnancy-Induced"
+MONDO_0007606,Fibrodysplasia Ossificans Progressiva
+EFO_0005246,Hypersomnia
+EFO_1000049,Pulmonary Tuberculosis
+EFO_0003063,Polymyositis
+EFO_0009086,Arteriosclerosis
+EFO_0007498,Stiff-Person Syndrome
+EFO_0004705,Hypothyroidism
+MONDO_0100244,Paroxysmal Nocturnal Hemoglobinuria
+EFO_0003802,Refractory Anemia
+EFO_0003812,Refractory Anemia With Ringed Sideroblasts
+HP_0006000,Ureteral Obstruction
+EFO_0005741,Infectious Disease
+EFO_0009454,Gastric Ulcer
+EFO_1000253,Fallopian Tube Serous Adenocarcinoma
+EFO_0005756,Skin Wound
+MONDO_0017147,Idiopathic Pulmonary Arterial Hypertension
+EFO_1001347,Herpes Labialis
+EFO_0000618,Nervous System Disease
+MONDO_0001751,Cholestasis
+EFO_1000634,Hamartoma
+HP_0004418,Thrombophlebitis
+EFO_0004228,Drug-Induced Liver Injury
+MONDO_0015798,Inflammatory Myofibroblastic Tumor
+EFO_0004254,Membranous Glomerulonephritis
+MONDO_0021582,Lentigo
+EFO_0004229,Dupuytren Contracture
+MONDO_0001734,Tuberous Sclerosis
+EFO_0010820,Spontaneous Coronary Artery Dissection
+EFO_0020925,Angina Unstable
+EFO_1000881,Coronary Aneurysm
+EFO_1000883,Coronary Thrombosis
+EFO_1001255,Spontaneous Abortion
+GO_0070527,Platelet Aggregation
+EFO_0007312,Hiv Wasting Syndrome
+EFO_0003963,Freckles
+EFO_0006865,Urgency Urinary Incontinence
+EFO_0004145,Myopathy
+MONDO_0018150,Gaucher Disease
+EFO_0003762,Vitamin D Deficiency
+MONDO_0015515,Carnitine Palmitoyltransferase Ii Deficiency
+EFO_1001082,Panuveitis
+EFO_0004266,Primary Ovarian Insufficiency
+EFO_0004207,Pathological Myopia
+EFO_0008997,Synovitis
+EFO_0009715,Wheezing
+EFO_1001129,Proliferative Vitreoretinopathy
+EFO_0004826,Anti-Neutrophil Antibody Associated Vasculitis
+EFO_0002621,Prostate Intraepithelial Neoplasia
+EFO_1001864,Uterine Prolapse
+HP_0002907,Microscopic Hematuria
+MONDO_0001410,Postmenopausal Atrophic Vaginitis
+MONDO_0003199,Anal Carcinoma
+EFO_0004318,Smoking Behavior
+EFO_0007169,Biliary Dyskinesia
+EFO_0009579,Postpartum Hemorrhage
+EFO_0007147,Anogenital Venereal Wart
+EFO_0005539,Adrenal Gland Disease
+EFO_0002627,Vulvar Intraepithelial Neoplasia
+MONDO_0002102,Cheilitis
+Orphanet_271861,Familial Transthyretin-Related Amyloidosis
+MONDO_0020121,Muscular Dystrophy
+MONDO_0017182,Familial Hyperinsulinism
+EFO_0009094,Idiopathic Dilated Cardiomyopathy
+EFO_0000508,Genetic Disorder
+MONDO_0019441,Attrv122I Amyloidosis
+MONDO_0002492,Acute Kidney Failure
+MONDO_0018923,22Q11.2 Deletion Syndrome
+EFO_0007372,Mitral Valve Stenosis
+EFO_0006501,Carotid Plaque Build
+HP_0011147,Typical Absence Seizure
+EFO_1001145,Raynaud Disease
+HP_0003401,Paresthesia
+EFO_0001067,Parasitic Infection
+EFO_0004224,Coronary Restenosis
+EFO_0007442,Placenta Praevia
+EFO_0005424,Dyslexia
+EFO_1000623,Vulvar Lichen Sclerosus
+HP_0012803,Anisometropia
+EFO_0007208,Churg-Strauss Syndrome
+EFO_0006462,Ovarian Mucinous Adenocarcinoma
+EFO_1000435,Ovarian Transitional Cell Carcinoma
+EFO_0009012,Polyarteritis Nodosa
+EFO_1000797,Adrenal Gland Hyperfunction
+MONDO_0008347,Idiopathic And/Or Familial Pulmonary Arterial Hypertension
+MONDO_0024352,Viral Respiratory Tract Infection
+DOID_7551,Gonorrhea
+EFO_0003955,Bacterial Sexually Transmitted Disease
+EFO_0005622,Crohn'S Colitis
+EFO_0007185,Brucellosis
+EFO_0007205,Chlamydia Trachomatis Infectious Disease
+EFO_0007272,Filarial Elephantiasis
+EFO_0007410,Ornithosis
+EFO_0007469,Rhabdoviridae Infectious Disease
+EFO_0007480,Scrub Typhus
+EFO_0007504,Syphilis
+EFO_0009117,Typhus
+EFO_1000842,Borrelia Infectious Disease
+EFO_1001177,Septic Abortion
+EFO_1001235,Vibrio Infectious Disease
+EFO_1001312,Endometritis
+EFO_1001444,Tularemia
+EFO_1002047,Spotted Fever
+EFO_0004285,Albuminuria
+EFO_0007129,Acute Chest Syndrome
+MONDO_0037748,Hyperlipoproteinemia
+MONDO_0018473,Hyperlipoproteinemia Type 3
+EFO_0004911,Familial Hypercholesterolemia
+MONDO_0002070,Ventricular Septal Defect
+EFO_0007332,Japanese Encephalitis
+EFO_0004129,Familial Amyloid Neuropathy
+MONDO_0008380,Retinoblastoma
+EFO_1001872,Agoraphobia
+MONDO_0015469,Craniosynostosis
+EFO_0000248,Alveolar Rhabdomyosarcoma
+EFO_0003017,Transitional Cell Carcinoma Of Kidney
+MONDO_0017314,"Ehlers-Danlos Syndrome, Vascular Type"
+EFO_0007323,Inclusion Body Myositis
+EFO_0003769,Endocrine Neoplasm
+EFO_0007167,Bell'S Palsy
+EFO_0004225,Coronary Vasospasm
+EFO_1001020,Lipoid Nephrosis
+EFO_1001226,Uremia
+EFO_0007443,Placental Insufficiency
+EFO_0005757,Vaginal Inflammation
+EFO_0009463,Infarction
+EFO_1000752,Photosensitivity Disease
+EFO_1000854,Causalgia
+EFO_1000896,Diabetic Angiopathy
+HP_0000540,Hypermetropia
+HP_0001518,Small For Gestational Age
+HP_0012042,Aspirin-Induced Asthma
+HP_0100014,Epiretinal Membrane
+MONDO_0000527,Colon Adenoma
+MONDO_0043579,Enteritis
+EFO_0005751,Eye Allergy
+HP_0011107,Recurrent Aphthous Stomatitis
+HP_0012219,Erythema Nodosum
+MONDO_0002041,Fungal Infectious Disease
+EFO_0005588,Small Intestine Carcinoma
+MONDO_0002601,Teratoma
+Orphanet_1764,Familial Dysautonomia
+MONDO_0004768,Keratoconjunctivitis
+MONDO_0020290,Familial Atrioventricular Septal Defect
+EFO_0006510,Herpes Zoster
+EFO_1001914,Radiation-Induced Gastrointestinal Mucositis
+EFO_0000437,Embryonal Rhabdomyosarcoma
+Orphanet_100,Ataxia-Telangiectasia
+MONDO_0017387,Epithelioid Sarcoma
+MONDO_0019046,Leukodystrophy
+EFO_0006912,Radiation-Induced Nausea And Vomiting
+HP_0003119,Abnormal Circulating Lipid Concentration
+MONDO_0018328,Homozygous Familial Hypercholesterolemia
+EFO_0005140,Autoimmune Disease
+EFO_0005561,Histiocytoma
+EFO_1000868,Chronic Inflammatory Demyelinating Polyradiculoneuropathy
+MONDO_0002516,Digestive System Cancer
+EFO_0004237,Graves Disease
+EFO_0003014,Breast Fibrocystic Disease
+EFO_0009431,Intestinal Disease
+EFO_1001311,End Stage Liver Disease
+MONDO_0002277,Arteriosclerosis Disorder
+Orphanet_60,Alpha-1-Antitrypsin Deficiency
+MONDO_0016236,Kaposiform Hemangioendothelioma
+EFO_0007625,Asthenia
+EFO_0005242,Methamphetamine-Induced Psychosis
+EFO_0006927,Severe Aplastic Anemia
+MONDO_0019796,Acrocephalosyndactyly
+Orphanet_46724,Cerebral Arteriovenous Malformation
+EFO_0003822,Hyperemia
+MONDO_0008728,Classic Congenital Adrenal Hyperplasia Due To 21-Hydroxylase Deficiency
+MONDO_0003001,Seminoma
+HP_0001347,Hyperreflexia
+MONDO_0011340,Congenital Tracheal Stenosis
+EFO_1000820,Arteriosclerosis Obliterans
+EFO_1000706,Hand Dermatosis
+EFO_1001103,Persistent Fetal Circulation Syndrome
+EFO_0009760,Non-Proliferative Diabetic Retinopathy
+EFO_1000869,Chronic Interstitial Cystitis
+MONDO_0017853,Hypersensitivity Pneumonitis
+EFO_0007363,Meibomian Cyst
+HP_0030369,Induced Vaginal Delivery
+EFO_1000829,Bacterial Conjunctivitis
+EFO_0009451,Hypoparathyroidism
+HP_0002901,Hypocalcemia
+EFO_0009521,Dislocation
+MONDO_0002122,Neuritis
+EFO_0004260,Bone Disease
+HP_0000407,Sensorineural Hearing Impairment
+EFO_0002623,Septic Peritonitis
+EFO_0009551,Heart Valve Disease
+MONDO_0002465,Bronchiolitis
+MONDO_0004900,Peripheral Vertigo
+MONDO_0021165,Paget Disease
+MONDO_0019080,Alopecia Totalis
+EFO_0009450,Conjunctivitis
+MONDO_0004514,Chronic Rhinitis
+MONDO_0006058,Wilms Tumor
+EFO_1000800,Alcohol Withdrawal Delirium
+HP_0012424,Chorioretinitis
+EFO_0007308,Herpes Simplex Virus Keratitis
+EFO_0005558,Hemolytic Anemia
+EFO_0009197,Pulmonary Arterial Hypertension Associated With Portal Hypertension
+EFO_0003029,Acute Basophilic Leukemia
+EFO_0007462,Rem Sleep Behavior Disorder
+MONDO_0001280,Choroiditis
+MONDO_0018092,Vogt-Koyanagi-Harada Disease
+HP_0002902,Hyponatremia
+EFO_0005235,Primitive Neuroectodermal Tumor
+MONDO_0000728,Ptosis
+HP_0031364,Ecchymosis
+EFO_0007318,Hyperinsulinemic Hypoglycemia
+MONDO_0004681,Learning Disability
+EFO_0007148,Aortic Valve Insufficiency
+MONDO_0010674,Mucopolysaccharidosis Type 2
+MONDO_0024280,Polyarticular Arthritis
+HP_0032252,Granuloma
+EFO_0004267,Biliary Liver Cirrhosis
+MONDO_0019072,Intrahepatic Cholestasis
+EFO_1001952,Endometrial Adenosquamous Carcinoma
+MONDO_0002177,Hyperinsulinism
+MONDO_0015229,Bardet-Biedl Syndrome
+Orphanet_77828,Genetic Obesity
+HP_0003549,Abnormality Of Connective Tissue
+EFO_1000992,Intracranial Hypertension
+EFO_0009200,Eisenmenger Syndrome
+HP_0010783,Erythema
+EFO_0003096,Pick Disease
+EFO_1000453,Paraganglioma
+MONDO_0024457,Neurodegeneration With Brain Iron Accumulation 2A
+HP_0002647,Aortic Dissection
+EFO_0009549,Female Reproductive System Disease
+EFO_1001328,Fluoride Poisoning
+HP_0025425,Laryngospasm
+EFO_1000178,"Chronic Eosinophilic Leukemia, Not Otherwise Specified"
+EFO_1000802,Alcoholic Liver Cirrhosis
+MONDO_0004782,Diabetes Insipidus
+EFO_1001175,Secondary Parkinson Disease
+EFO_1001402,Postencephalitic Parkinson Disease
+EFO_0004321,Attempted Suicide
+EFO_0020000,Developmental And Epileptic Encephalopathy 94
+EFO_0009118,Female Reproductive Endometrioid Cancer
+EFO_1000911,Dystocia
+MONDO_0021392,Polyp Of Large Intestine
+MONDO_0002474,Primary Hyperoxaluria
+MONDO_0010604,Hemophilia B
+HP_0030151,Cholangitis
+EFO_1000824,Asphyxia Neonatorum
+Orphanet_552,Mody
+EFO_0007454,Postpoliomyelitis Syndrome
+MONDO_0012833,Crouzon Syndrome-Acanthosis Nigricans Syndrome
+EFO_0005549,Diphtheria
+EFO_0000769,Epstein-Barr Virus Infection
+EFO_1000727,Lipodystrophy
+MONDO_0007172,Atrial Septal Defect 1
+EFO_0001666,Aortic Aneurysm
+MONDO_0015128,Primary Adrenal Insufficiency
+MONDO_0015129,Chronic Primary Adrenal Insufficiency
+EFO_0004235,Exfoliation Syndrome
+EFO_0005579,Pseudohermaphroditism
+MONDO_0016700,Anaplastic Ependymoma
+HP_0003202,Skeletal Muscle Atrophy
+EFO_1001078,Orchitis
+HP_0000044,Hypogonadotropic Hypogonadism
+MONDO_0019591,Panhypopituitarism
+EFO_0009866,Pulmonary Vascular Congestion
+MONDO_0021201,Skin Infection
+EFO_0003851,Meningeal Neoplasm
+EFO_0004152,Chorea
+EFO_1001793,Fetal Hypoxia
+EFO_1000603,Unclassified Renal Cell Carcinoma
+EFO_1001017,Limited Scleroderma
+MONDO_0013626,"Psoriasis 14, Pustular"
+HP_0003072,Hypercalcemia
+EFO_0005803,Hematologic Disease
+EFO_1001045,Middle Cerebral Artery Infarction
+HP_0012075,Personality Disorder
+EFO_0006732,Pancreatic Adenosquamous Carcinoma
+MONDO_0000153,Transposition Of The Great Arteries
+EFO_1000982,Inappropriate Adh Syndrome
+EFO_0009505,Head Injury
+EFO_0000217,Gastritis
+MONDO_0002135,Optic Nerve Disorder
+HP_0001623,Breech Presentation
+EFO_1001272,Bacterial Pneumonia
+MONDO_0001676,Erythropoietic Protoporphyria
+HP_0002153,Hyperkalemia
+MONDO_0016971,Limb-Girdle Muscular Dystrophy
+EFO_1000024,Chronic Rhinosinusitis
+EFO_0001379,Endocrine System Disease
+EFO_0003779,Hashimoto'S Thyroiditis
+EFO_0005319,Contact Dermatitis
+EFO_0006951,Ototoxicity
+EFO_0007257,Eosinophilic Pneumonia
+EFO_0007297,Hellp Syndrome
+EFO_0007387,Mycoplasma Pneumoniae Pneumonia
+EFO_0007403,Ophthalmic Herpes Zoster
+EFO_0007520,Trichinosis
+EFO_0007537,Vestibular Neuronitis
+EFO_0007543,Vulvovaginal Candidiasis
+EFO_0009456,Exfoliative Dermatitis
+EFO_0009485,Eye Injury
+EFO_0009491,Adrenocortical Insufficiency
+EFO_0009515,Wrist Fracture
+EFO_1000039,Meningeal Tuberculosis
+EFO_1000684,Dermatitis Herpetiformis
+EFO_1000697,Exanthem
+EFO_1000845,Brain Edema
+EFO_1000997,Iritis
+EFO_1001077,Orbital Plasma Cell Granuloma
+EFO_1001104,Phimosis
+EFO_1001194,Subacute Thyroiditis
+EFO_1001205,Sympathetic Ophthalmia
+EFO_1001223,Ulcerative Proctosigmoiditis
+EFO_1001295,Microscopic Colitis
+EFO_1001818,Oral Submucous Fibrosis
+EFO_1001888,Eye Infection
+EFO_1002030,Chronic Rhinosinusitis Without Nasal Polyps
+EFO_1002049,Glomerular Disease
+EFO_1002050,Nephritis
+HP_0000265,Mastoiditis
+HP_0000559,Corneal Scarring
+HP_0001094,Iridocyclitis
+HP_0002043,Esophageal Stricture
+HP_0004448,Fulminant Hepatic Failure
+HP_0007957,Corneal Opacity
+HP_0010307,Stridor
+HP_0010450,Esophageal Stenosis
+HP_0100582,Nasal Polyposis
+MONDO_0000465,Atrioventricular Block
+MONDO_0001903,Calcific Tendinitis
+MONDO_0002331,Nephrosis
+MONDO_0003334,Demyelinating Polyneuropathy
+MONDO_0004750,Language Disorder
+MONDO_0014421,Glucocorticoid Resistance
+MONDO_0016226,Specific Language Disorder
+MONDO_0021340,Intertrigo
+Orphanet_1930,Herpetic Encephalitis
+Orphanet_701,Alopecia Universalis
+MONDO_0000159,Bone Marrow Failure Syndrome
+MONDO_0001302,Hypertensive Heart Disease
+HP_0001507,Growth Abnormality
+MONDO_0016717,Choroid Plexus Neoplasm
+EFO_0009836,Bronchoconstriction
+EFO_0009189,Hyperthyroidism
+HP_0000802,Impotence
+EFO_0006888,Vascular Malformation
+MONDO_0017198,Osteopetrosis
+MONDO_0021094,Immunodeficiency Disease
+HP_0001279,Syncope
+MONDO_0010735,Kennedy Disease
+EFO_0006818,Stricture
+MONDO_0018922,Cold Agglutinin Disease
+EFO_1001307,Dumping Syndrome
+EFO_0009276,Ventricular Ectopy
+MONDO_0020732,Progeria
+EFO_1000994,Intracranial Vasospasm
+EFO_1001986,Connective Tissue Disease
+HP_0025116,Fetal Distress
+MONDO_0004647,In Situ Carcinoma
+MONDO_0001422,Primary Aldosteronism
+EFO_0008514,Neurofibromatosis
+EFO_1000647,Renal Tubular Transport Disease
+MONDO_0008310,Hutchinson-Gilford Progeria Syndrome
+EFO_0007451,Polyomavirus Infectious Disease
+HP_0001788,Premature Rupture Of Membranes
+EFO_1001769,Carcinoid Heart Disease
+MONDO_0002995,"Small Intestine Neuroendocrine Tumor, Well Differentiated, Low Or Intermediate Grade"
+EFO_0004282,Thoracic Aortic Aneurysm
+HP_0000863,Central Diabetes Insipidus
+MONDO_0024574,Von Willebrand Disease (Hereditary Or Acquired)
+EFO_1000036,Lactic Acidosis
+MONDO_0019169,Pyruvate Dehydrogenase Deficiency
+HP_0003073,Hypoalbuminemia
+EFO_0003026,Minimally Differentiated Acute Myeloblastic Leukemia
+EFO_1001933,Adult Acute Monocytic Leukemia
+EFO_0006344,Medication Adherence Behavior
+EFO_0002893,Choriocarcinoma
+EFO_0000364,Colon Mucinous Adenocarcinoma
+MONDO_0100039,Cdkl5 Disorder
+EFO_1000850,Burning Mouth Syndrome
+EFO_1000924,Epilepsia Partialis Continua
+MONDO_0019019,Osteogenesis Imperfecta
+HP_0001685,Myocardial Fibrosis
+EFO_1001150,Renal Artery Obstruction
+EFO_0000551,Intracranial Hemorrhage
+EFO_0008506,Hyperparathyroidism
+EFO_0003149,Advanced Heart Failure
+EFO_0005578,Pituitary Cancer
+HP_0006986,Upper Limb Spasticity
+MONDO_0003544,Spinal Cord Cancer
+Orphanet_413,Hyperlipoproteinemia Type 4
+MONDO_0016244,Atypical Hemolytic-Uremic Syndrome
+MONDO_0010006,Sandhoff Disease
+EFO_1001152,Renal Osteodystrophy
+MONDO_0024677,Pancreatic Insulinoma
+EFO_0009472,Tympanic Membrane Perforation
+MONDO_0002025,Psychiatric Disorder
+MONDO_0019514,Hepatic Veno-Occlusive Disease
+EFO_0003097,Empyema
+EFO_0007440,Placenta Accreta
+EFO_0009680,Pleural Empyema
+EFO_0020921,Hemorrhagic Stroke
+GO_0042592,Homeostatic Process
+MONDO_0002037,Pleural Disorder
+EFO_0008519,Primary Hyperparathyroidism
+EFO_1000728,Lipomatosis
+MONDO_0004790,Fatty Liver Disease
+EFO_0009363,Chronic Central Serous Retinopathy
+EFO_0006926,Acquired Aplastic Anemia
+EFO_1000298,Hydatidiform Mole
+MONDO_0009290,Glycogen Storage Disease Ii
+EFO_0009847,Dizziness
+EFO_1001188,Space Motion Sickness
+EFO_1001871,Acquired Cold Urticaria
+MONDO_0019004,Kidney Wilms Tumor
+Orphanet_68366,Lysosomal Disease
+EFO_0000197,Mucinous Carcinoma
+MONDO_0018904,Primary Membranoproliferative Glomerulonephritis
+HP_0004420,Arterial Thrombosis
+HP_0002579,Gastrointestinal Dysmotility
+EFO_0020911,Overdose
+MONDO_0041182,Polymorphic Light Eruption
+EFO_0009669,Flatulence
+HP_0002028,Chronic Diarrhea
+HP_0002172,Postural Instability
+HP_0001987,Hyperammonemia
+EFO_0002424,Fibroma
+EFO_0000698,Signet Ring Cell Carcinoma
+MONDO_0024300,Hypophosphatemic Rickets
+EFO_0004261,Osteitis Deformans
+EFO_0007512,Tinea Pedis
+EFO_1001771,Cardiac Edema
+MONDO_0019269,Ichthyosis
+HP_0002148,Hypophosphatemia
+MONDO_0015492,Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis
+EFO_1001095,Peptic Esophagitis
+MONDO_0015715,Severe Hemophilia B
+MONDO_0018998,Leber Congenital Amaurosis
+MONDO_0003037,Hypotrichosis
+EFO_0000337,Chronic Gastritis
+HP_0100633,Esophagitis
+HP_0012450,Chronic Constipation
+MONDO_0009823,Primary Hyperoxaluria Type 1
+HP_0000678,Dental Crowding
+EFO_1001355,Laryngopharyngeal Reflux
+EFO_1002034,Secondary Hypertension
+EFO_1000639,Acquired Metabolic Disease
+EFO_1001478,Systemic Inflammatory Response Syndrome
+HP_0005208,Secretory Diarrhea
+EFO_0003866,Paranasal Sinus Neoplasm
+MONDO_0003212,Nasal Cavity Carcinoma
+EFO_0009064,X-Linked Erythropoietic Protoporphyria
+EFO_0801077,Cystic Fibrosis-Related Diabetes
+EFO_1000897,Diabetic Ketoacidosis
+EFO_0004281,Testicular Neoplasm
+EFO_0007362,Mediastinal Cancer
+MONDO_0003751,Childhood Germ Cell Tumor
+MONDO_0018201,Extragonadal Germ Cell Tumor
+MONDO_0018171,Malignant Germ Cell Tumor Of Ovary
+MONDO_0021657,Ovarian Sex Cord-Stromal Tumor
+EFO_1001042,Mesenchymoma
+EFO_1001953,"Endometrial Endometrioid Adenocarcinoma, Variant With Squamous Differentiation"
+EFO_1001306,"Diarrhea, Infantile"
+EFO_1001479,Tumor Lysis Syndrome
+MONDO_0013869,Adenine Phosphoribosyltransferase Deficiency
+EFO_0003046,Heart Transplant Rejection
+EFO_1000312,Kidney Angiomyolipoma
+EFO_1001305,"Dermatitis, Perioral"
+EFO_1001761,Angiofibroma
+HP_0001626,Abnormality Of The Cardiovascular System
+MONDO_0002603,Angiomyolipoma
+MONDO_0007203,Blue Rubber Bleb Nevus
+MONDO_0008280,Peutz-Jeghers Syndrome
+MONDO_0016471,Pachyonychia Congenita
+MONDO_0022529,Bk-Virus Nephropathy
+Orphanet_122,Birt-Hogg-Dubé Syndrome
+EFO_0003765,Sign Or Symptom
+EFO_0007196,Cauda Equina Syndrome
+MONDO_0018170,Idiopathic Nephrotic Syndrome
+MONDO_0019064,Hereditary Spastic Paraplegia
+EFO_1000058,Nasopharyngeal Squamous Cell Carcinoma
+MONDO_0000514,Bone Squamous Cell Carcinoma
+MONDO_0016748,Hemangioblastoma
+EFO_1000415,Ovarian Embryonal Carcinoma
+EFO_1000437,Ovarian Yolk Sac Tumor
+EFO_1000564,Testicular Choriocarcinoma
+EFO_1000565,Testicular Embryonal Carcinoma
+EFO_1000574,Testicular Yolk Sac Tumor
+MONDO_0002730,Childhood Kidney Neoplasm
+EFO_0003781,Carotid Artery Disease
+HP_0001787,Abnormal Delivery
+MONDO_0000931,Endometrial Disorder
+MONDO_0002621,Extraosseous Osteosarcoma
+MONDO_0002678,Pediatric Fibrosarcoma
+MONDO_0005094,Hemangiopericytoma
+EFO_0004283,Goiter
+EFO_1000931,Euthyroid Sick Syndrome
+EFO_1001055,Myxedema
+MONDO_0018612,Congenital Hypothyroidism
+MONDO_0016296,Holoprosencephaly
+EFO_0005569,Microphthalmia
+MONDO_0017290,Familial Intrahepatic Cholestasis
+MONDO_0019052,Inborn Errors Of Metabolism
+Orphanet_51636,Whim Syndrome
+EFO_1001173,Secondary Hyperparathyroidism
+EFO_1000358,Malignant Ovarian Mixed Epithelial Tumor
+EFO_1001156,Retinal Vasculitis
+EFO_0009464,Corneal Disease
+MONDO_0002244,Factor Vii Deficiency
+EFO_1000643,Infantile Epileptic Encephalopathy
+MONDO_0011426,Aceruloplasminemia
+EFO_0005545,Congenital Disorder Of Glycosylation Type I
+EFO_0007549,Zollinger-Ellison Syndrome
+EFO_0009909,Stage 5 Chronic Kidney Disease
+EFO_1001153,Renovascular Hypertension
+EFO_0005753,Ocular Vascular Disease
+EFO_1001060,Neovascular Glaucoma
+MONDO_0001576,Telangiectasis
+EFO_1000874,Commensal Clostridium Infectious Disease
+MONDO_0001941,Blindness (Disorder)
+EFO_0003146,Symptomatic Heart Failure
+Orphanet_93262,Crouzon Syndrome - Acanthosis Nigricans
+Orphanet_89936,X-Linked Hypophosphatemia
+EFO_0005583,Rickets
+MONDO_0002412,Disorder Of Glycogen Metabolism
+EFO_0007294,"Hand, Foot And Mouth Disease"
+MONDO_0002175,Degeneration Of Macula And Posterior Pole
+EFO_0005878,Vitamin Deficiency
+EFO_1001029,Magnesium Deficiency
+HP_0001891,Iron Deficiency Anemia
+MONDO_0018543,Autosomal Dominant Hypocalcemia
+EFO_1001147,Reflex Sympathetic Dystrophy
+MONDO_0009979,Reticular Dystrophy Of The Retinal Pigment Epithelium
+Orphanet_758,Pseudoxanthoma Elasticum
+EFO_0007175,Blind Loop Syndrome
+MONDO_0018088,Familial Mediterranean Fever
+MONDO_0009662,Mucopolysaccharidosis Type 7
+MONDO_0009255,Galactokinase Deficiency
+EFO_1000013,Prinzmetal'S Angina
+EFO_1001031,Malignant Hypertension
+HP_0004763,Paroxysmal Supraventricular Tachycardia
+HP_0012390,Anal Fissure
+HP_0004349,Reduced Bone Mineral Density
+HP_0012227,Urethral Stricture
+EFO_0009614,Clavicle Fracture
+EFO_1000631,Palsy
+EFO_0009426,Necrosis
+EFO_0009783,Carotid Atherosclerosis
+EFO_0010059,Cerebral Microbleeds
+EFO_1000807,Anterior Cerebral Artery Infarction
+EFO_1000812,Anterolateral Myocardial Infarction
+HP_0001647,Bicuspid Aortic Valve
+HP_0100545,Arterial Stenosis
+MONDO_0021118,Intestinal Neoplasm
+EFO_0009544,Esophageal Disease
+HP_0001600,Abnormality Of The Larynx
+HP_0002012,Abnormality Of The Abdominal Organs
+MONDO_0001684,Exocrine Pancreatic Insufficiency
+MONDO_0002647,Laryngitis
+Orphanet_98869,Congenital Dyserythropoietic Anemia Type I
+DOID_10113,Trypanosomiasis
+EFO_0007306,Herpangina
+EFO_0007303,Hepatitis E Virus Infection
+MONDO_0044348,Hemoglobinopathy
+Orphanet_88618,Psychomotor Retardation Due To S-Adenosylhomocysteine Hydrolase Deficiency
+EFO_1000937,Fetal Erythroblastosis
+EFO_1000638,Isaacs Syndrome
+MONDO_0015358,Hereditary Motor And Sensory Neuropathy
+MONDO_0019950,Congenital Muscular Dystrophy
